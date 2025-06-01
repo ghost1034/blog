@@ -75,7 +75,7 @@ pagination.pagerSize = 5
 [languages]
   [languages.en]
     languageName = "English"
-    title = "Terminal"
+    title = "Ian's Blog"
 
     [languages.en.params]
       subtitle = "A simple, retro theme for Hugo"
