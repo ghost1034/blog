@@ -57,7 +57,7 @@ fi
 # ──────────────────────────────────────────────────────────
 # 4) SYNC Obsidian → Hugo `content/posts` via rsync
 # ──────────────────────────────────────────────────────────
-echo "🔄 Syncing posts from Obsidian..."
+echo "Syncing posts from Obsidian..."
 if [ ! -d "$sourcePath" ]; then
     echo "ERROR: Source path does not exist: $sourcePath"
     exit 1
@@ -74,7 +74,7 @@ rsync -av --delete "$sourcePath"/ "$destinationPath"/
 # ──────────────────────────────────────────────────────────
 # 5) RUN Python script to rewrite image links, etc.
 # ──────────────────────────────────────────────────────────
-echo "🖼️  Processing image links in Markdown..."
+echo "Processing image links in Markdown..."
 if [ ! -f "images.py" ]; then
     echo "ERROR: images.py not found in project root."
     exit 1
@@ -84,25 +84,25 @@ python3 images.py
 # ──────────────────────────────────────────────────────────
 # 6) BUILD HUGO SITE
 # ──────────────────────────────────────────────────────────
-echo "🚧 Building Hugo site..."
+echo "Building Hugo site..."
 hugo
 # By default, Hugo writes to ./public/
 
 # ──────────────────────────────────────────────────────────
 # 7) STAGE & COMMIT any changes to main branch
 # ──────────────────────────────────────────────────────────
-echo "📥 Staging changes for Git..."
+echo "Staging changes for Git..."
 # Only add if there is something new/changed:
 if git diff --quiet && git diff --cached --quiet; then
-    echo "✅ No changes to stage on main."
+    echo "No changes to stage on main."
 else
     git add .
     commit_message="Update site content: $(date +'%Y-%m-%d %H:%M:%S')"
-    echo "💬 Committing to main: '$commit_message'"
+    echo "Committing to main: '$commit_message'"
     git commit -m "$commit_message"
 fi
 
-echo "🚀 Pushing to origin/main..."
+echo "Pushing to origin/main..."
 git push origin HEAD:main
 
 # ──────────────────────────────────────────────────────────
@@ -112,7 +112,7 @@ git push origin HEAD:main
 # We create a temporary branch (gh-temp) containing ONLY the 
 # contents of public/. Then force‐push that to origin/gh-pages.
 #
-echo "📂 Deploying public/ → gh‑pages branch..."
+echo "Deploying public/ → gh‑pages branch..."
 
 # If a previous temp branch exists, delete it
 if git show-ref --quiet refs/heads/gh-temp; then
@@ -128,6 +128,6 @@ git push origin gh-temp:gh-pages --force
 # Delete our local gh-temp branch
 git branch -D gh-temp
 
-echo "🎉 Deployment to GitHub Pages complete!"
+echo "Deployment to GitHub Pages complete!"
 echo "    - main → (source for future edits) @ origin/main"
 echo "    - public subtree → (site) @ origin/gh-pages"
