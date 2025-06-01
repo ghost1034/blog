@@ -15,5 +15,12 @@
       <guid>https://ghost1034.github.io/blog/posts/first-post/</guid>
       <description>&lt;p&gt;My first post&#xA;&lt;img src=&#34;https://ghost1034.github.io/blog/images/Pasted%20image%2020250531222013.png&#34; alt=&#34;Pasted image 20250531222013&#34;&gt;&#xA;&lt;img src=&#34;https://ghost1034.github.io/blog/images/Pasted%20image%2020250531222707.png&#34; alt=&#34;Pasted image 20250531222707&#34;&gt;&lt;/p&gt;</description>
     </item>
+    <item>
+      <title>First Post</title>
+      <link>https://ghost1034.github.io/blog/posts/new/</link>
+      <pubDate>Sat, 31 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://ghost1034.github.io/blog/posts/new/</guid>
+      <description>&lt;p&gt;Dang&#xA;&lt;img src=&#34;https://ghost1034.github.io/blog/images/Pasted%20image%2020250531223951.png&#34; alt=&#34;Pasted image 20250531223951&#34;&gt;&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
