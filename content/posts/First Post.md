@@ -7,5 +7,5 @@ tags:
   - tag2
 ---
 My first post
-!![Image Description](/blog/images/Pasted%20image%2020250531222013.png)
-!![Image Description](/blog/images/Pasted%20image%2020250531222707.png)
+![Pasted image 20250531222013](/blog/images/Pasted%20image%2020250531222013.png)
+![Pasted image 20250531222707](/blog/images/Pasted%20image%2020250531222707.png)
