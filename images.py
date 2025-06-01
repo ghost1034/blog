@@ -3,9 +3,9 @@ import re
 import shutil
 
 #  (1) Adjust these three paths to YOUR environment
-posts_dir         = "/Users/ianstewart/ianblog/content/posts/"
+posts_dir         = "/Users/ianstewart/blog/content/posts/"
 attachments_dir   = "/Users/ianstewart/Chest/attachments/"
-static_images_dir = "/Users/ianstewart/ianblog/static/images/"
+static_images_dir = "/Users/ianstewart/blog/static/images/"
 
 # (A) Make sure posts_dir and static_images_dir both end with a slash
 if not posts_dir.endswith("/"):
