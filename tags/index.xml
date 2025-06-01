@@ -9,17 +9,17 @@
     <lastBuildDate>Sat, 31 May 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://ghost1034.github.io/blog/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Blog</title>
-      <link>https://ghost1034.github.io/blog/tags/blog/</link>
+      <title>Tag1</title>
+      <link>https://ghost1034.github.io/blog/tags/tag1/</link>
       <pubDate>Sat, 31 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://ghost1034.github.io/blog/tags/blog/</guid>
+      <guid>https://ghost1034.github.io/blog/tags/tag1/</guid>
       <description></description>
     </item>
     <item>
-      <title>Ianstewart</title>
-      <link>https://ghost1034.github.io/blog/tags/ianstewart/</link>
+      <title>Tag2</title>
+      <link>https://ghost1034.github.io/blog/tags/tag2/</link>
       <pubDate>Sat, 31 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://ghost1034.github.io/blog/tags/ianstewart/</guid>
+      <guid>https://ghost1034.github.io/blog/tags/tag2/</guid>
       <description></description>
     </item>
   </channel>
