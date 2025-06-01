@@ -93,5 +93,5 @@ pagination.pagerSize = 5
       words = "words"
 
       [languages.en.params.logo]
-        logoText = "Terminal"
+        logoText = "Ian's Blog"
         logoHomeLink = "/"
