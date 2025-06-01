@@ -3,8 +3,8 @@ title: First Post
 date: 2025-05-31
 draft: false
 tags:
-  - ianstewart
-  - blog
+  - tag1
+  - tag2
 ---
-This is a test WTF
-!![Image Description](/images/Pasted%20image%2020250531212034.png)
+My first post
+!![Image Description](/images/Pasted%20image%2020250531222013.png)
