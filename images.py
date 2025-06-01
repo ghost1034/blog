@@ -53,7 +53,7 @@ for filename in os.listdir(posts_dir):
         # Replace spaces with %20 in the URL part
         url_path = img_filename.replace(" ", "%20")    # e.g. "Diagram%201.png"
         # Your site probably serves images at /blog/images/... if your baseURL is  "/blog/"
-        return f"![{alt_text}](/blog/images/{url_path})"
+        return f"![{alt_text}](/images/{url_path})"
 
     # (5) Perform the substitution on the entire file content
     new_content = image_pattern.sub(replace_embed_with_markdown, content)
