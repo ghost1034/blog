@@ -94,4 +94,4 @@ pagination.pagerSize = 5
 
       [languages.en.params.logo]
         logoText = "Terminal"
-        logoHomeLink = "/blog"
+        logoHomeLink = "/"
