@@ -1,5 +1,5 @@
 ---
-title: First Post
+title: New
 date: 2025-05-31
 draft: false
 tags:
