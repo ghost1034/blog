@@ -6,8 +6,15 @@
     <description>Recent content in Posts on Ian&#39;s Blog</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 12 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Jun 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://ghost1034.github.io/blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Creating a plan - need something solid before Sunday</title>
+      <link>https://ghost1034.github.io/blog/posts/14/</link>
+      <pubDate>Fri, 13 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://ghost1034.github.io/blog/posts/14/</guid>
+      <description>&lt;p&gt;Morning&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Get Firebase, Google Cloud Storage, Document AI connected&lt;/li&gt;&#xA;&lt;li&gt;Do any necessary refactoring&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Afternoon&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Build working code to connect with APIs&lt;/li&gt;&#xA;&lt;li&gt;At minimum: Upload a file, be able to view returned output when processing is finished&lt;/li&gt;&#xA;&lt;li&gt;Alpha version goal (by Sunday): Be able to upload a file, then after processing is finished, click to open results with PDF preview on one side and editable fields on the other side. Approve button and Export to CSV button.&lt;/li&gt;&#xA;&lt;li&gt;Create document with full project plan and screenshots of current build, send Google Docs link to Ray Sang&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Evening&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Building foundation of app... firm foundation or not?</title>
       <link>https://ghost1034.github.io/blog/posts/13/</link>
