@@ -6,8 +6,50 @@
     <description>Recent content in Posts on Ian&#39;s Blog</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 13 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Jul 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://ghost1034.github.io/blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Expanding my scope?</title>
+      <link>https://ghost1034.github.io/blog/posts/20/</link>
+      <pubDate>Mon, 07 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://ghost1034.github.io/blog/posts/20/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Current Review&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;ByteReview (might change the name). Week&amp;rsquo;s plan (refer back to original plan as well):&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Refactoring&lt;/li&gt;&#xA;&lt;li&gt;Multi-PDF, folders, integrations&lt;/li&gt;&#xA;&lt;li&gt;More control over data types and templates&lt;/li&gt;&#xA;&lt;li&gt;Stripe connection&lt;/li&gt;&#xA;&lt;li&gt;Deployment&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;College applications&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Stanford&#xA;&lt;ol&gt;&#xA;&lt;li&gt;CA: Opens Aug 1&lt;/li&gt;&#xA;&lt;li&gt;REA: Nov 1, RD: Jan 5&lt;/li&gt;&#xA;&lt;li&gt;Decision: REA: Mid Dec, RD: Early Apr&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Caltech&#xA;2. REA: Nov 1, RD: Jan 3&#xA;3. Decision: REA: Mid Dec, RD: Mid Mar&lt;/li&gt;&#xA;&lt;li&gt;UC&#xA;&lt;ol&gt;&#xA;&lt;li&gt;App: Opens Aug 1&lt;/li&gt;&#xA;&lt;li&gt;Deadline: Jan 15&lt;/li&gt;&#xA;&lt;li&gt;Decision: Mar 1-31&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;USC&#xA;&lt;ol&gt;&#xA;&lt;li&gt;CA: Opens Aug 1&lt;/li&gt;&#xA;&lt;li&gt;EA (Non-B): Nov 1, RD: Jan 10&lt;/li&gt;&#xA;&lt;li&gt;Decision: EA: Mid-Late Jan, RD: Apr 1&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Cal Poly SLO&#xA;&lt;ol&gt;&#xA;&lt;li&gt;App: Opens Oct 1&lt;/li&gt;&#xA;&lt;li&gt;Deadline: Dec 2&lt;/li&gt;&#xA;&lt;li&gt;Decision: Apr 1&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;CB&amp;rsquo;s web scraping for legal AI project&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Do research on current best web scraping tools&lt;/li&gt;&#xA;&lt;li&gt;Reach back out, ask about progress and what is needed&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;J&amp;rsquo;s Shopify add-on price monitoring idea&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Do research on existing tools and how to build something better&lt;/li&gt;&#xA;&lt;li&gt;Ask for websites of interest&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Creating a class for kids&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Try to find past TCS, Insp AI, Andrew Ng materials&lt;/li&gt;&#xA;&lt;li&gt;Look at Kaggle and library docs to get situated with current landscape again&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Project Pull&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Threw it out the window.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Volunteering&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Check Mission Bit again.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Driving&#xA;&lt;ol&gt;&#xA;&lt;li&gt;See if worth starting now or not.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;&lt;strong&gt;Purposes&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Presented working app</title>
+      <link>https://ghost1034.github.io/blog/posts/19/</link>
+      <pubDate>Sun, 06 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://ghost1034.github.io/blog/posts/19/</guid>
+      <description>&lt;p&gt;Upload, extraction, export working.&lt;/p&gt;&#xA;&lt;p&gt;Field names, data types, prompts working.&lt;/p&gt;&#xA;&lt;p&gt;Refactoring to be done to make codebase organized and scalable, then more features.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Next.js, FastAPI, Firebase, Gemini...</title>
+      <link>https://ghost1034.github.io/blog/posts/18/</link>
+      <pubDate>Mon, 30 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://ghost1034.github.io/blog/posts/18/</guid>
+      <description>&lt;p&gt;June 30 - July 5: Did not blog during this period. Spent time learning Next.js, FastAPI, Firebase, Gemini. Getting situated with project again.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Meeting with Ray, discussed new plan</title>
+      <link>https://ghost1034.github.io/blog/posts/17/</link>
+      <pubDate>Sun, 29 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://ghost1034.github.io/blog/posts/17/</guid>
+      <description>&lt;p&gt;Recovering from jetlag. Will be using Gemini API.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Last day before trip</title>
+      <link>https://ghost1034.github.io/blog/posts/16/</link>
+      <pubDate>Sat, 28 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://ghost1034.github.io/blog/posts/16/</guid>
+      <description>&lt;p&gt;Back from trip. Mind-blowing. Many pictures.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Last day before trip</title>
+      <link>https://ghost1034.github.io/blog/posts/15/</link>
+      <pubDate>Sat, 14 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://ghost1034.github.io/blog/posts/15/</guid>
+      <description>&lt;p&gt;Finalized project plan - no working prototype yet. Packing for trip.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Creating a plan - need something solid before Sunday</title>
       <link>https://ghost1034.github.io/blog/posts/14/</link>
