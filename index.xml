@@ -6,8 +6,15 @@
     <description>Recent content on Ian&#39;s Blog</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 07 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 11 Aug 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://ghost1034.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Last week before school</title>
+      <link>https://ghost1034.github.io/blog/posts/21/</link>
+      <pubDate>Mon, 11 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://ghost1034.github.io/blog/posts/21/</guid>
+      <description>&lt;p&gt;A simple plan for the last week before school.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Scheduling classes&#xA;&lt;ul&gt;&#xA;&lt;li&gt;MUST happen this week. Continue reaching out.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;College preparation&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Get all prompts in Word document. At minimum, write responses to all CA prompts.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;CPAautomation.ai&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Monday&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Early&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Discussion with Ray, plan out week&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Late&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Release preparation part 1: Non-DB changes (see Kanban)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Tuesday&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Early and Late&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Release preparation part 2: DB changes (see Kanban)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Wednesday&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Early&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Release preparation part 3: Google Workspace integration (consider moving this to after deployment as this is not immediately necessary).&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Late&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Deployment&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Rest of the week: Ensure platform is working, get situated with CI/CD&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
     <item>
       <title>Expanding my scope?</title>
       <link>https://ghost1034.github.io/blog/posts/20/</link>
@@ -147,13 +154,6 @@
       <pubDate>Sat, 31 May 2025 00:00:00 +0000</pubDate>
       <guid>https://ghost1034.github.io/blog/posts/1/</guid>
       <description>&lt;p&gt;First day: Thu 5/29 (just nighttime)&lt;/p&gt;&#xA;&lt;p&gt;Second day: Fri 5/30 (new K restaurant + walking around)&lt;/p&gt;&#xA;&lt;p&gt;First festival, lots of people&amp;hellip;&lt;/p&gt;&#xA;&lt;p&gt;Still pushing through caffeine withdrawal.&lt;/p&gt;&#xA;&lt;p&gt;Plan for tomorrow (might have to split over multiple days):&lt;/p&gt;&#xA;&lt;p&gt;Morning&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Write and send rec letter email&lt;/li&gt;&#xA;&lt;li&gt;Start making list of colleges, location, tuition, top majors by quality, top majors by personal preference, essay questions&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Afternoon&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Reach out to Ray Sang&lt;/li&gt;&#xA;&lt;li&gt;Contact robotics team + find other teaching or volunteer opportunities&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Evening&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>https://ghost1034.github.io/blog/posts/21/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ghost1034.github.io/blog/posts/21/</guid>
-      <description>&lt;p&gt;A simple plan for the last week before school.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Scheduling classes&#xA;&lt;ul&gt;&#xA;&lt;li&gt;MUST happen this week. Continue reaching out.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;College preparation&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Get all prompts in Word document. At minimum, write responses to all CA prompts.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;CPAautomation.ai&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Monday&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Early&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Discussion with Ray, plan out week&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Late&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Release preparation part 1: Non-DB changes (see Kanban)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Tuesday&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Early and Late&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Release preparation part 2: DB changes (see Kanban)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Wednesday&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Early&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Release preparation part 3: Google Workspace integration (consider moving this to after deployment as this is not immediately necessary).&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Late&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Deployment&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Rest of the week: Ensure platform is working, get situated with CI/CD&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
   </channel>
 </rss>
