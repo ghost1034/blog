@@ -5,9 +5,58 @@
     <link>https://ghost1034.github.io/blog/posts/</link>
     <description>Recent content in Posts on Ian&#39;s Blog</description>
     <generator>Hugo</generator>
-    <language>en</language>
-    <lastBuildDate>Mon, 11 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 28 Jan 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://ghost1034.github.io/blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Begin building hackathon project &#43; prepare for Harvard interview</title>
+      <link>https://ghost1034.github.io/blog/posts/28/</link>
+      <pubDate>Wed, 28 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://ghost1034.github.io/blog/posts/28/</guid>
+      <description>&lt;p&gt;Three time concerns:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Less than two weeks until hackathon deadline&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Only two meetings with Ray until deadline&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;This coming Sunday is February 1st&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Should meet with Leo regarding email generator&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;College app material submission&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Counselor needs to send regular transcript to MIT&lt;/li&gt;&#xA;&lt;li&gt;Counselor needs to send mid-year report to all colleges except UCs.&lt;/li&gt;&#xA;&lt;li&gt;Plan to meet with her tomorrow&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Today:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;9-10 AM: Begin phase 1 of building hackathon project (see build phases)&#xA;&lt;ul&gt;&#xA;&lt;li&gt;General plan: 1 phase per day&lt;/li&gt;&#xA;&lt;li&gt;This leaves a few days before the deadline to test end-to-end&lt;/li&gt;&#xA;&lt;li&gt;Leave Leo&amp;rsquo;s project to Saturday (lower priority)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;10:16 AM: Go to advisory at school&lt;/li&gt;&#xA;&lt;li&gt;12:12-12:59 AM: Lunch + prepare answers for Harvard interview&lt;/li&gt;&#xA;&lt;li&gt;2:35 PM: End of 6th period, go home&lt;/li&gt;&#xA;&lt;li&gt;3:30-4:30 PM (estimated): Doctor appointment&lt;/li&gt;&#xA;&lt;li&gt;5-6 PM (estimated): Dinner&lt;/li&gt;&#xA;&lt;li&gt;8:30–9:30 PM (estimated): Harvard interview&lt;/li&gt;&#xA;&lt;li&gt;9:30–10:30 PM: Either:&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Continue building hackathon project according to build plan, or&lt;/li&gt;&#xA;&lt;li&gt;Concretely plan how many phases to complete per day over the next 12 days&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Music video, created build plans, bus to CCSF and back</title>
+      <link>https://ghost1034.github.io/blog/posts/27/</link>
+      <pubDate>Tue, 27 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://ghost1034.github.io/blog/posts/27/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;Created music video for a &amp;ldquo;project&amp;rdquo;. Honestly it was fun.&lt;/li&gt;&#xA;&lt;li&gt;Developed full implementation plans for (1) hackathon and (2) email generator&lt;/li&gt;&#xA;&lt;li&gt;Took bus to CCSF to solve account issue.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Was a little tired in the evening.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>LinkedIn post, MATH 130, set up repos</title>
+      <link>https://ghost1034.github.io/blog/posts/26/</link>
+      <pubDate>Mon, 26 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://ghost1034.github.io/blog/posts/26/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;Ray made LinkedIn post. Began discussing new user acquisition.&lt;/li&gt;&#xA;&lt;li&gt;Started MATH 130. Watched all lecture videos.&lt;/li&gt;&#xA;&lt;li&gt;Set up local repositories for working on (1) hackathon and (2) email generator&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Went to bed a little too late.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>CPAAutomation Important Items</title>
+      <link>https://ghost1034.github.io/blog/posts/25/</link>
+      <pubDate>Sun, 25 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://ghost1034.github.io/blog/posts/25/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;Created a list of important architectural improvements needed in CPAAutomation.&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Will need to see when and how to implement these!&lt;/li&gt;&#xA;&lt;li&gt;Especially important as we scale to more users.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Made social media posts to promote RJI Collectibles.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>RJI Collectibles video</title>
+      <link>https://ghost1034.github.io/blog/posts/24/</link>
+      <pubDate>Sat, 24 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://ghost1034.github.io/blog/posts/24/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;Recorded RJI Collectibles video&lt;/li&gt;&#xA;&lt;li&gt;Walked around in (I forgot the name)&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Recentering</title>
+      <link>https://ghost1034.github.io/blog/posts/23/</link>
+      <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://ghost1034.github.io/blog/posts/23/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;Resolved all UAT items for CPAAutomation&lt;/li&gt;&#xA;&lt;li&gt;Met with Ray&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Recentering</title>
+      <link>https://ghost1034.github.io/blog/posts/22/</link>
+      <pubDate>Mon, 22 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://ghost1034.github.io/blog/posts/22/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;Monday&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Get caught up with Calc 3 Ch 12 HW&lt;/li&gt;&#xA;&lt;li&gt;Read full summaries of Invisible Man (all parts), Bible (selected parts)&lt;/li&gt;&#xA;&lt;li&gt;Common App revisions, send back to Ray&lt;/li&gt;&#xA;&lt;li&gt;CPAAutomation Small Fixes&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Tuesday&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Get caught up with Calc 3 Ch 13 Text, Lectures, HW&lt;/li&gt;&#xA;&lt;li&gt;Create full note sheets for Invisible Man and Bible&lt;/li&gt;&#xA;&lt;li&gt;PIQ revisions&lt;/li&gt;&#xA;&lt;li&gt;CPAAutomation Fix #1&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Wednesday&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Calc 3 Week 4 Discussion&lt;/li&gt;&#xA;&lt;li&gt;Finish Biotech Project&lt;/li&gt;&#xA;&lt;li&gt;CPAAutomation Fix #2&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Thursday&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Calc 3 Week 4 HW Submission&lt;/li&gt;&#xA;&lt;li&gt;Finish Psych Project + Review Video Notes + Field Trip Form&lt;/li&gt;&#xA;&lt;li&gt;CPAAutomation Fix #3&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Friday&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Any remaining scholarship applications&lt;/li&gt;&#xA;&lt;li&gt;CPAAutomation: Any remaining work&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
     <item>
       <title>Last week before school</title>
       <link>https://ghost1034.github.io/blog/posts/21/</link>
