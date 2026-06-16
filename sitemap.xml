@@ -2,11 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://ghost1034.github.io/blog/posts/40/</loc>
+    <lastmod>2026-06-16T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://ghost1034.github.io/blog/</loc>
-    <lastmod>2026-06-14T00:00:00+00:00</lastmod>
+    <lastmod>2026-06-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ghost1034.github.io/blog/posts/</loc>
-    <lastmod>2026-06-14T00:00:00+00:00</lastmod>
+    <lastmod>2026-06-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ghost1034.github.io/blog/posts/39/</loc>
+    <lastmod>2026-06-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ghost1034.github.io/blog/posts/38/</loc>
     <lastmod>2026-06-14T00:00:00+00:00</lastmod>
