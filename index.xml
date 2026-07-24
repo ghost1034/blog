@@ -1,313 +1,346 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Ian&#39;s Blog</title>
-    <link>https://ghost1034.github.io/blog/</link>
-    <description>Recent content on Ian&#39;s Blog</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 19 Jun 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://ghost1034.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Stopping Point Before Trip</title>
-      <link>https://ghost1034.github.io/blog/posts/43/</link>
-      <pubDate>Fri, 19 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>https://ghost1034.github.io/blog/posts/43/</guid>
-      <description>&lt;ul&gt;&#xA;&lt;li&gt;Plan to:&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Meet with Ray to note my two-week travel and my stopping point before the trip&lt;/li&gt;&#xA;&lt;li&gt;Make changes to the itinerary if there are missing must-do items&lt;/li&gt;&#xA;&lt;li&gt;Pack any items I want to bring on the trip&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>Skills, Plugins, MCP, etc. (and maybe deeper fundamentals?)</title>
-      <link>https://ghost1034.github.io/blog/posts/42/</link>
-      <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>https://ghost1034.github.io/blog/posts/42/</guid>
-      <description>&lt;ul&gt;&#xA;&lt;li&gt;Plan to:&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Review Claude ecosystem features&lt;/li&gt;&#xA;&lt;li&gt;Read SoftBank and Caris Life Sciences consulting requirements&lt;/li&gt;&#xA;&lt;li&gt;Find an online technical course for the summer to keep myself sharp (deeper AI/ML fundamentals)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>Demo Day</title>
-      <link>https://ghost1034.github.io/blog/posts/41/</link>
-      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>https://ghost1034.github.io/blog/posts/41/</guid>
-      <description>&lt;ul&gt;&#xA;&lt;li&gt;Plan to:&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Record demo videos for Inkwise and Form Fill&lt;/li&gt;&#xA;&lt;li&gt;Address any discrepancies along the way&lt;/li&gt;&#xA;&lt;li&gt;Use Descript for a voiceover&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>Comparing Tools</title>
-      <link>https://ghost1034.github.io/blog/posts/40/</link>
-      <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>https://ghost1034.github.io/blog/posts/40/</guid>
-      <description>&lt;ul&gt;&#xA;&lt;li&gt;Compared ComfyUI, HeyGen, Google Vids. Decided on cycling between free HeyGen accts&lt;/li&gt;&#xA;&lt;li&gt;Answered YC application questions&lt;/li&gt;&#xA;&lt;li&gt;Added product tour button to every module&lt;/li&gt;&#xA;&lt;li&gt;Listed Inkwise references and generated Form Fill sources/targets for demos&lt;/li&gt;&#xA;&lt;li&gt;Wrote down goals for different time frames&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>First Monday After Return</title>
-      <link>https://ghost1034.github.io/blog/posts/39/</link>
-      <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>https://ghost1034.github.io/blog/posts/39/</guid>
-      <description>&lt;ul&gt;&#xA;&lt;li&gt;Reviewed driver&amp;rsquo;s handbook one final time&lt;/li&gt;&#xA;&lt;li&gt;Got permit (a year later than planned but it works out)&lt;/li&gt;&#xA;&lt;li&gt;Revamped CPAAutomation homepage&lt;/li&gt;&#xA;&lt;li&gt;Submitted CoE orientation&lt;/li&gt;&#xA;&lt;li&gt;Sent email to Residential Affairs about CalCentral task&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>The Day I&#39;m Making My Summer Plans</title>
-      <link>https://ghost1034.github.io/blog/posts/38/</link>
-      <pubDate>Sun, 14 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>https://ghost1034.github.io/blog/posts/38/</guid>
-      <description>&lt;p&gt;Tasks:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Create weekly/monthly/seasonally/yearly/long-term goals&lt;/li&gt;&#xA;&lt;li&gt;Revamp homepage using UI/UX Pro Max skill&lt;/li&gt;&#xA;&lt;li&gt;Learn ComfyUI, set it up, use Hermes to automate&lt;/li&gt;&#xA;&lt;li&gt;Answer YC application questions&lt;/li&gt;&#xA;&lt;li&gt;Add product tour button to every module&lt;/li&gt;&#xA;&lt;li&gt;List Inkwise references and generate Form Fill sources/targets for demos&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;(Note: Complete as many tasks as possible before evening ends, defer the rest to tomorrow)&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Rejuvenating</title>
-      <link>https://ghost1034.github.io/blog/posts/37/</link>
-      <pubDate>Sat, 13 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>https://ghost1034.github.io/blog/posts/37/</guid>
-      <description>&lt;ul&gt;&#xA;&lt;li&gt;In the morning, we discussed the following:&#xA;&lt;ul&gt;&#xA;&lt;li&gt;When responding to others:&#xA;&lt;ul&gt;&#xA;&lt;li&gt;First consider my own thoughts and feelings instead of how to please others&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;When speaking to others:&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Speak based on what I want to say instead of what others want to hear&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;When I get up in the morning:&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Think about what I want for the day instead of what others want for the day&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;At noon, we had lunch at Ping&amp;rsquo;s Bistro, got Molly Tea, and walked around in San Mateo&lt;/li&gt;&#xA;&lt;li&gt;In the afternoon, we watched Backrooms&lt;/li&gt;&#xA;&lt;li&gt;In the evening, we went to the gym&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>Recalibrating</title>
-      <link>https://ghost1034.github.io/blog/posts/36/</link>
-      <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>https://ghost1034.github.io/blog/posts/36/</guid>
-      <description>&lt;ul&gt;&#xA;&lt;li&gt;Set up Mac Mini on HD monitor and MacBook Air on 4K monitor&lt;/li&gt;&#xA;&lt;li&gt;Listed two violins for sale on Facebook Marketplace&lt;/li&gt;&#xA;&lt;li&gt;Explored UI/UX Pro Max skill for Claude Code to revamp homepage&lt;/li&gt;&#xA;&lt;li&gt;Explored social media SEO tools and settled on ComfyUI for video + Hermes to post&lt;/li&gt;&#xA;&lt;li&gt;Explored YC application and decided on a past coding session to upload&lt;/li&gt;&#xA;&lt;li&gt;Deployed fixes for bugs Ray reported backlogged during my trip&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>Returning</title>
-      <link>https://ghost1034.github.io/blog/posts/35/</link>
-      <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>https://ghost1034.github.io/blog/posts/35/</guid>
-      <description>&lt;ul&gt;&#xA;&lt;li&gt;Returned from Cleveland/Pittsburgh trip (read driver&amp;rsquo;s handbook on the plane)&lt;/li&gt;&#xA;&lt;li&gt;Unpacked everything from my luggage&lt;/li&gt;&#xA;&lt;li&gt;Minor disagreement over not having discussed tuition with dad&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>Three Days Until Trip</title>
-      <link>https://ghost1034.github.io/blog/posts/34/</link>
-      <pubDate>Sat, 04 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>https://ghost1034.github.io/blog/posts/34/</guid>
-      <description>&lt;p&gt;Saturday April 4&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Arrive&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Sunday April 5&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Apply for SF jobs&lt;/li&gt;&#xA;&lt;li&gt;Submit Cal form&lt;/li&gt;&#xA;&lt;li&gt;Finish remaining school assignments&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Monday April 6&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Math 130 week 8&lt;/li&gt;&#xA;&lt;li&gt;Begin addressing Inkwise UAT&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Research:&#xA;&lt;ul&gt;&#xA;&lt;li&gt;OCR vs Vision&lt;/li&gt;&#xA;&lt;li&gt;Image, Video, Audio&lt;/li&gt;&#xA;&lt;li&gt;Retrieval Optimizations&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Ask Ray for AccountingClaw source code&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Tuesday April 7&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Math 130 week 9&lt;/li&gt;&#xA;&lt;li&gt;Test Inkwise UAT&lt;/li&gt;&#xA;&lt;li&gt;Research the best FREE OpenClaw setup&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Wednesday April 8&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Experiment with OpenClaw&lt;/li&gt;&#xA;&lt;li&gt;Ask Ray to test Inkwise UAT&lt;/li&gt;&#xA;&lt;li&gt;Research the best GCP OpenClaw setup&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Thursday April 9&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Three Days Until Trip</title>
-      <link>https://ghost1034.github.io/blog/posts/33/</link>
-      <pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://ghost1034.github.io/blog/posts/33/</guid>
-      <description>&lt;p&gt;Last week&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Applied to six retail jobs (Round 1, Regal, Uniqlo, 2nd Street, Shoe Palace, See&amp;rsquo;s Candies)&lt;/li&gt;&#xA;&lt;li&gt;Built, tested, and deployed Gemini Embedding 2 in Inkwise&lt;/li&gt;&#xA;&lt;li&gt;Stayed off astrology forums until Friday, and good news!&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Monday (recovering from lack of sleep)&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Applied to EinR&lt;/li&gt;&#xA;&lt;li&gt;Began lectures&lt;/li&gt;&#xA;&lt;li&gt;Began Inkwise review&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Tue–Thu (stop obsessing over astrology)&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Tue (feel recovered already)&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Finish lectures for last week and this week&lt;/li&gt;&#xA;&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Take notes from textbook for last week and this week&lt;/li&gt;&#xA;&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Write discussion for this week&lt;/li&gt;&#xA;&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Submit homework for this week&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Wed&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Create list of Inkwise improvements (based on UAT)&lt;/li&gt;&#xA;&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Plan Inkwise improvements&lt;/li&gt;&#xA;&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Execute Inkwise improvements&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Thu&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Apply to food jobs (Quickly, Ike&amp;rsquo;s, Chipotle, Palmetto, Kura, 85deg)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Friday&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Two Weeks Before Trip</title>
-      <link>https://ghost1034.github.io/blog/posts/32/</link>
-      <pubDate>Sun, 15 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://ghost1034.github.io/blog/posts/32/</guid>
-      <description>&lt;p&gt;Goals&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Maintain good grades&lt;/li&gt;&#xA;&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Find a job I can start after the trip&lt;/li&gt;&#xA;&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Build, test, and deploy Gemini Embedding 2 in Inkwise&lt;/li&gt;&#xA;&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Complete setup and marketing of Fiverr gigs&lt;/li&gt;&#xA;&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Finalize college decisions spreadsheet&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>LG (Life&#39;s Good)</title>
-      <link>https://ghost1034.github.io/blog/posts/31/</link>
-      <pubDate>Fri, 06 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://ghost1034.github.io/blog/posts/31/</guid>
-      <description>&lt;ul&gt;&#xA;&lt;li&gt;Tonight&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Math night!!!&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Saturday&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Patented features (to match original Inkwise)&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Attach sources directly in the popup, and automatically include the selected text&lt;/li&gt;&#xA;&lt;li&gt;Autocomplete/predict feature, press tab to accept&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Sunday&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Incorporate into CPAAutomation&lt;/li&gt;&#xA;&lt;li&gt;Experiment with OpenClaw?&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Mon-Fri&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Complete remaining math problems&lt;/li&gt;&#xA;&lt;li&gt;CPAAutomation&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Login security&lt;/li&gt;&#xA;&lt;li&gt;Share and invite&lt;/li&gt;&#xA;&lt;li&gt;Website beautification&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>March!</title>
-      <link>https://ghost1034.github.io/blog/posts/30/</link>
-      <pubDate>Mon, 02 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://ghost1034.github.io/blog/posts/30/</guid>
-      <description>&lt;p&gt;Week before last&amp;hellip; what did I accomplish (summary)?&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Completed school assignments for MP4&lt;/li&gt;&#xA;&lt;li&gt;Completed homework for weeks 1–4 of Math 130&lt;/li&gt;&#xA;&lt;li&gt;Created website for Leo and asked for feedback&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Last week&amp;hellip; what did I accomplish (summary)?&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Researched PageIndex vs Traditional RAG&lt;/li&gt;&#xA;&lt;li&gt;Began developing Inkwise, created first prototype&lt;/li&gt;&#xA;&lt;li&gt;Finished financial aid applications&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;This week (simple)&amp;hellip;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;First of all, clear mind and focus on being present&lt;/li&gt;&#xA;&lt;li&gt;Days of week&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Monday&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Math Day (use Celsius)&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Watch lectures for weeks 5–7&lt;/li&gt;&#xA;&lt;li&gt;Complete homework for weeks 5–7&lt;/li&gt;&#xA;&lt;li&gt;Create summary sheet&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;This gets me into the disciplined mindset&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Tuesday&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Testing Day&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Implement bug fixes&lt;/li&gt;&#xA;&lt;li&gt;Implement TipTap&lt;/li&gt;&#xA;&lt;li&gt;Decide on (a) switch to traditional RAG or (b) implement PageIndex myself&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Don&amp;rsquo;t worry about &amp;ldquo;memorizing&amp;rdquo; RAG pipeline details for a sense of security&#xA;&lt;ul&gt;&#xA;&lt;li&gt;That&amp;rsquo;s not the point&lt;/li&gt;&#xA;&lt;li&gt;The point is to experiment and discover the optimal pipeline for myself&lt;/li&gt;&#xA;&lt;li&gt;It&amp;rsquo;s not always obvious&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Wednesday&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Work Day&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Build optimal pipeline&lt;/li&gt;&#xA;&lt;li&gt;Document the pipeline&lt;/li&gt;&#xA;&lt;li&gt;Test the pipeline&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Thursday&#xA;&lt;ul&gt;&#xA;&lt;li&gt;The Incorporation Day&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Incorporate into CPAAutomation&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;P.S. Math&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Write discussion post and submit HW problem&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Friday&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Finalization Day&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Finalize Inkwise MVP in CPAAutomation&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Remember what differentiates my good weeks from my bad weeks&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Goals (check back on Friday night):&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Last week and this week</title>
-      <link>https://ghost1034.github.io/blog/posts/29/</link>
-      <pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>https://ghost1034.github.io/blog/posts/29/</guid>
-      <description>&lt;p&gt;Last week in a nutshell:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Completed hackathon project, recorded demo video, cleaned up GitHub commits&lt;/li&gt;&#xA;&lt;li&gt;Completed weeks 2 and 3 of Math 130&lt;/li&gt;&#xA;&lt;li&gt;Met with Leo about Azure setup and discussed email generator features&lt;/li&gt;&#xA;&lt;li&gt;Began researching summer job/internship opportunities&lt;/li&gt;&#xA;&lt;li&gt;Created implementation plans for all CPAAutomation major items&amp;hellip;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&amp;hellip;and implemented cost efficiency improvements (removed Redis for now)&lt;/li&gt;&#xA;&lt;li&gt;&amp;hellip;and will implement performance improvements this week&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Already implemented one (quite interesting): I saw that one user&amp;rsquo;s extraction job failed due to thousands of line items being in one document. CPAAutomation can handle this now.&#xA;&lt;ul&gt;&#xA;&lt;li&gt;It turns out I can learn a lot from real users&amp;rsquo; experiences!&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Began laying out next phase of CPAAutomation development:&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Strengthen authentication (email verification)&lt;/li&gt;&#xA;&lt;li&gt;Team functionality (sharing)&lt;/li&gt;&#xA;&lt;li&gt;Writing feature (plus RAG)&lt;/li&gt;&#xA;&lt;li&gt;Integration with hackathon project (through API key)&lt;/li&gt;&#xA;&lt;li&gt;Utilization of OpenClaw (agentic capabilities)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;This week I want to:&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Begin building hackathon project &#43; prepare for Harvard interview</title>
-      <link>https://ghost1034.github.io/blog/posts/28/</link>
-      <pubDate>Wed, 28 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>https://ghost1034.github.io/blog/posts/28/</guid>
-      <description>&lt;p&gt;Three time concerns:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Less than two weeks until hackathon deadline&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Only two meetings with Ray until deadline&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;This coming Sunday is February 1st&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Should meet with Leo regarding email generator&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;College app material submission&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Counselor needs to send regular transcript to MIT&lt;/li&gt;&#xA;&lt;li&gt;Counselor needs to send mid-year report to all colleges except UCs.&lt;/li&gt;&#xA;&lt;li&gt;Plan to meet with her tomorrow&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Today:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;9-10 AM: Begin phase 1 of building hackathon project (see build phases)&#xA;&lt;ul&gt;&#xA;&lt;li&gt;General plan: 1 phase per day&lt;/li&gt;&#xA;&lt;li&gt;This leaves a few days before the deadline to test end-to-end&lt;/li&gt;&#xA;&lt;li&gt;Leave Leo&amp;rsquo;s project to Saturday (lower priority)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;10:16 AM: Go to advisory at school&lt;/li&gt;&#xA;&lt;li&gt;12:12-12:59 AM: Lunch + prepare answers for Harvard interview&lt;/li&gt;&#xA;&lt;li&gt;2:35 PM: End of 6th period, go home&lt;/li&gt;&#xA;&lt;li&gt;3:30-4:30 PM (estimated): Doctor appointment&lt;/li&gt;&#xA;&lt;li&gt;5-6 PM (estimated): Dinner&lt;/li&gt;&#xA;&lt;li&gt;8:30–9:30 PM (estimated): Harvard interview&lt;/li&gt;&#xA;&lt;li&gt;9:30–10:30 PM: Either:&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Continue building hackathon project according to build plan, or&lt;/li&gt;&#xA;&lt;li&gt;Concretely plan how many phases to complete per day over the next 12 days&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>Music video, created build plans, bus to CCSF and back</title>
-      <link>https://ghost1034.github.io/blog/posts/27/</link>
-      <pubDate>Tue, 27 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>https://ghost1034.github.io/blog/posts/27/</guid>
-      <description>&lt;ul&gt;&#xA;&lt;li&gt;Created music video for a &amp;ldquo;project&amp;rdquo;. Honestly it was fun.&lt;/li&gt;&#xA;&lt;li&gt;Developed full implementation plans for (1) hackathon and (2) email generator&lt;/li&gt;&#xA;&lt;li&gt;Took bus to CCSF to solve account issue.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Was a little tired in the evening.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>LinkedIn post, MATH 130, set up repos</title>
-      <link>https://ghost1034.github.io/blog/posts/26/</link>
-      <pubDate>Mon, 26 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>https://ghost1034.github.io/blog/posts/26/</guid>
-      <description>&lt;ul&gt;&#xA;&lt;li&gt;Ray made LinkedIn post. Began discussing new user acquisition.&lt;/li&gt;&#xA;&lt;li&gt;Started MATH 130. Watched all lecture videos.&lt;/li&gt;&#xA;&lt;li&gt;Set up local repositories for working on (1) hackathon and (2) email generator&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Went to bed a little too late.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>CPAAutomation Important Items</title>
-      <link>https://ghost1034.github.io/blog/posts/25/</link>
-      <pubDate>Sun, 25 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>https://ghost1034.github.io/blog/posts/25/</guid>
-      <description>&lt;ul&gt;&#xA;&lt;li&gt;Created a list of important architectural improvements needed in CPAAutomation.&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Will need to see when and how to implement these!&lt;/li&gt;&#xA;&lt;li&gt;Especially important as we scale to more users.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Made social media posts to promote RJI Collectibles.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>RJI Collectibles video</title>
-      <link>https://ghost1034.github.io/blog/posts/24/</link>
-      <pubDate>Sat, 24 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>https://ghost1034.github.io/blog/posts/24/</guid>
-      <description>&lt;ul&gt;&#xA;&lt;li&gt;Recorded RJI Collectibles video&lt;/li&gt;&#xA;&lt;li&gt;Walked around in (I forgot the name)&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>Recentering</title>
-      <link>https://ghost1034.github.io/blog/posts/23/</link>
-      <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>https://ghost1034.github.io/blog/posts/23/</guid>
-      <description>&lt;ul&gt;&#xA;&lt;li&gt;Resolved all UAT items for CPAAutomation&lt;/li&gt;&#xA;&lt;li&gt;Met with Ray&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>Recentering</title>
-      <link>https://ghost1034.github.io/blog/posts/22/</link>
-      <pubDate>Mon, 22 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>https://ghost1034.github.io/blog/posts/22/</guid>
-      <description>&lt;ul&gt;&#xA;&lt;li&gt;Monday&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Get caught up with Calc 3 Ch 12 HW&lt;/li&gt;&#xA;&lt;li&gt;Read full summaries of Invisible Man (all parts), Bible (selected parts)&lt;/li&gt;&#xA;&lt;li&gt;Common App revisions, send back to Ray&lt;/li&gt;&#xA;&lt;li&gt;CPAAutomation Small Fixes&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Tuesday&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Get caught up with Calc 3 Ch 13 Text, Lectures, HW&lt;/li&gt;&#xA;&lt;li&gt;Create full note sheets for Invisible Man and Bible&lt;/li&gt;&#xA;&lt;li&gt;PIQ revisions&lt;/li&gt;&#xA;&lt;li&gt;CPAAutomation Fix #1&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Wednesday&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Calc 3 Week 4 Discussion&lt;/li&gt;&#xA;&lt;li&gt;Finish Biotech Project&lt;/li&gt;&#xA;&lt;li&gt;CPAAutomation Fix #2&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Thursday&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Calc 3 Week 4 HW Submission&lt;/li&gt;&#xA;&lt;li&gt;Finish Psych Project + Review Video Notes + Field Trip Form&lt;/li&gt;&#xA;&lt;li&gt;CPAAutomation Fix #3&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Friday&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Any remaining scholarship applications&lt;/li&gt;&#xA;&lt;li&gt;CPAAutomation: Any remaining work&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>Last week before school</title>
-      <link>https://ghost1034.github.io/blog/posts/21/</link>
-      <pubDate>Mon, 11 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://ghost1034.github.io/blog/posts/21/</guid>
-      <description>&lt;p&gt;A simple plan for the last week before school.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Scheduling classes&#xA;&lt;ul&gt;&#xA;&lt;li&gt;MUST happen this week. Continue reaching out.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;College preparation&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Get all prompts in Word document. Write responses to all CA prompts.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;CPAautomation.ai&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Monday&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Early&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Discussion with Ray, plan out week&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Late&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Release preparation part 1: Non-DB changes (see Kanban)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Tuesday&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Early and Late&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Release preparation part 2: DB changes (see Kanban)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Wednesday&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Early&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Release preparation part 3: Google Workspace integration (consider moving this to after deployment as this is not immediately necessary).&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Late&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Deployment&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Rest of the week: Ensure platform is working, get situated with CI/CD&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>Expanding my scope?</title>
-      <link>https://ghost1034.github.io/blog/posts/20/</link>
-      <pubDate>Mon, 07 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://ghost1034.github.io/blog/posts/20/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Current Review&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;ByteReview (might change the name). Week&amp;rsquo;s plan (refer back to original plan as well):&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Refactoring&lt;/li&gt;&#xA;&lt;li&gt;Multi-PDF, folders, integrations&lt;/li&gt;&#xA;&lt;li&gt;More control over templates&lt;/li&gt;&#xA;&lt;li&gt;Stripe connection&lt;/li&gt;&#xA;&lt;li&gt;Deployment&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;College applications&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Stanford&#xA;&lt;ol&gt;&#xA;&lt;li&gt;CA: Opens Aug 1&lt;/li&gt;&#xA;&lt;li&gt;REA: Nov 1, RD: Jan 5&lt;/li&gt;&#xA;&lt;li&gt;Decision: REA: Mid Dec, RD: Early Apr&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Caltech&#xA;&lt;ol&gt;&#xA;&lt;li&gt;CA: Opens Aug 1&lt;/li&gt;&#xA;&lt;li&gt;REA: Nov 1, RD: Jan 5&lt;/li&gt;&#xA;&lt;li&gt;Decision: REA: Mid Dec, RD: Mid Mar&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;UC&#xA;&lt;ol&gt;&#xA;&lt;li&gt;App: Opens Aug 1&lt;/li&gt;&#xA;&lt;li&gt;Deadline: Dec 1&lt;/li&gt;&#xA;&lt;li&gt;Decision: Mar 1-31&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;USC&#xA;&lt;ol&gt;&#xA;&lt;li&gt;CA: Opens Aug 1&lt;/li&gt;&#xA;&lt;li&gt;EA (Non-B): Nov 1, RD: Jan 10&lt;/li&gt;&#xA;&lt;li&gt;Decision: EA: Mid-Late Jan, RD: Apr 1&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Cal Poly SLO&#xA;&lt;ol&gt;&#xA;&lt;li&gt;App: Opens Oct 1&lt;/li&gt;&#xA;&lt;li&gt;Deadline: Dec 2&lt;/li&gt;&#xA;&lt;li&gt;Decision: Apr 1&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;CB&amp;rsquo;s web scraping for legal AI project&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Do research on current best web scraping tools&lt;/li&gt;&#xA;&lt;li&gt;Reach back out, ask about progress and what is needed&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;J&amp;rsquo;s Shopify add-on price monitoring idea&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Do research on existing tools and how to build something better&lt;/li&gt;&#xA;&lt;li&gt;Ask for websites of interest&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Creating a class for kids&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Try to find past TCS, Insp AI, Andrew Ng materials&lt;/li&gt;&#xA;&lt;li&gt;Look at Kaggle and library docs to get situated with current landscape again&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Project Pull&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Threw it out the window.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Volunteering&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Check Mission Bit again.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Driving&#xA;&lt;ol&gt;&#xA;&lt;li&gt;See if worth starting now or not.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;&lt;strong&gt;Purposes&lt;/strong&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Presented working app. MongoDB? PostgreSQL?</title>
-      <link>https://ghost1034.github.io/blog/posts/19/</link>
-      <pubDate>Sun, 06 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://ghost1034.github.io/blog/posts/19/</guid>
-      <description>&lt;p&gt;Upload, extraction, export working.&lt;/p&gt;&#xA;&lt;p&gt;Field names, data types, prompts working.&lt;/p&gt;&#xA;&lt;p&gt;Refactoring to be done to make codebase organized and scalable, then more features.&lt;/p&gt;&#xA;&lt;p&gt;(Thinking about switching to MongoDB or PostgreSQL. Not sure yet.)&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Next.js, FastAPI, Firebase, Gemini...</title>
-      <link>https://ghost1034.github.io/blog/posts/18/</link>
-      <pubDate>Mon, 30 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://ghost1034.github.io/blog/posts/18/</guid>
-      <description>&lt;p&gt;June 30 - July 5: Did not blog during this period. Spent time learning Next.js, FastAPI, Firebase, Gemini. Getting situated with project again.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Meeting with Ray, discussed new plan</title>
-      <link>https://ghost1034.github.io/blog/posts/17/</link>
-      <pubDate>Sun, 29 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://ghost1034.github.io/blog/posts/17/</guid>
-      <description>&lt;p&gt;Recovering from jetlag. Will be using Gemini API.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Last day before trip</title>
-      <link>https://ghost1034.github.io/blog/posts/16/</link>
-      <pubDate>Sat, 28 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://ghost1034.github.io/blog/posts/16/</guid>
-      <description>&lt;p&gt;Back from trip. Mind-blowing. Many pictures.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Last day before trip</title>
-      <link>https://ghost1034.github.io/blog/posts/15/</link>
-      <pubDate>Sat, 14 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://ghost1034.github.io/blog/posts/15/</guid>
-      <description>&lt;p&gt;Finalized project plan - no working prototype yet. Packing for trip.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Creating a plan - need something solid before Sunday</title>
-      <link>https://ghost1034.github.io/blog/posts/14/</link>
-      <pubDate>Fri, 13 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://ghost1034.github.io/blog/posts/14/</guid>
-      <description>&lt;p&gt;Morning&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Get Firebase, Google Cloud Storage, Document AI connected&lt;/li&gt;&#xA;&lt;li&gt;Do any necessary refactoring&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Afternoon&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Build working code to connect with APIs&lt;/li&gt;&#xA;&lt;li&gt;At minimum: Upload a file, be able to view returned output when processing is finished&lt;/li&gt;&#xA;&lt;li&gt;Alpha version goal (by Sunday): Be able to upload a file, then after processing is finished, click to open results with PDF preview on one side and editable fields on the other side. Approve button and Export to CSV button.&lt;/li&gt;&#xA;&lt;li&gt;Create document with full project plan and screenshots of current build, send Google Docs link to Ray Sang&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Evening&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Building foundation of app... firm foundation or not?</title>
-      <link>https://ghost1034.github.io/blog/posts/13/</link>
-      <pubDate>Thu, 12 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://ghost1034.github.io/blog/posts/13/</guid>
-      <description>&lt;p&gt;Scaffolded Extractly, not sure how much to focus on perfecting structure vs. getting something working&lt;/p&gt;&#xA;&lt;p&gt;Read lots of docs, slightly confused about how to specify columns to extract and how to provide prompts&lt;/p&gt;&#xA;&lt;p&gt;Determined to move forward - said I would get something working, will get something working by end of week&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Mapping out ByteReview or whatever it&#39;ll be called</title>
-      <link>https://ghost1034.github.io/blog/posts/12/</link>
-      <pubDate>Wed, 11 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://ghost1034.github.io/blog/posts/12/</guid>
-      <description>&lt;p&gt;Followed along a bit with Next.js 15 video&lt;/p&gt;&#xA;&lt;p&gt;Read up a bit about required tech, trying to go for modern stack&lt;/p&gt;&#xA;&lt;p&gt;Drafted ByteReview/Extractly/? rough plan&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>First and last Pull work day</title>
-      <link>https://ghost1034.github.io/blog/posts/11/</link>
-      <pubDate>Tue, 10 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://ghost1034.github.io/blog/posts/11/</guid>
-      <description>&lt;p&gt;Sorted mail, met strange people, I&amp;rsquo;m done&lt;/p&gt;&#xA;&lt;p&gt;Talked with C + really getting hang of gym&lt;/p&gt;&#xA;&lt;p&gt;Nighttime, resigned, connected back with Ray!&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>First day of Pull</title>
-      <link>https://ghost1034.github.io/blog/posts/10/</link>
-      <pubDate>Mon, 09 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://ghost1034.github.io/blog/posts/10/</guid>
-      <description>&lt;p&gt;Met new people&lt;/p&gt;&#xA;&lt;p&gt;Talked a lot&lt;/p&gt;&#xA;&lt;p&gt;Weird Steven Woo&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Going out</title>
-      <link>https://ghost1034.github.io/blog/posts/9/</link>
-      <pubDate>Sun, 08 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://ghost1034.github.io/blog/posts/9/</guid>
-      <description>&lt;p&gt;Went to flea market&lt;/p&gt;&#xA;&lt;p&gt;Went to JTown&lt;/p&gt;&#xA;&lt;p&gt;13,000 steps&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>F &amp; H</title>
-      <link>https://ghost1034.github.io/blog/posts/8/</link>
-      <pubDate>Sat, 07 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://ghost1034.github.io/blog/posts/8/</guid>
-      <description>&lt;p&gt;F &amp;amp; H&amp;rsquo;s house&lt;/p&gt;&#xA;&lt;p&gt;Social interaction with them (CB - Python web scraping task!)&lt;/p&gt;&#xA;&lt;p&gt;Singing in front of people&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Big project reveal day - it begins!</title>
-      <link>https://ghost1034.github.io/blog/posts/7/</link>
-      <pubDate>Fri, 06 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://ghost1034.github.io/blog/posts/7/</guid>
-      <description>&lt;p&gt;Call with RS, project revealed&lt;/p&gt;&#xA;&lt;p&gt;Reading Document AI docs&lt;/p&gt;&#xA;&lt;p&gt;Finding similar existing projects to determine workflow&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Volunteer? Hmm. Majors...</title>
-      <link>https://ghost1034.github.io/blog/posts/6/</link>
-      <pubDate>Thu, 05 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://ghost1034.github.io/blog/posts/6/</guid>
-      <description>&lt;p&gt;More volunteering search&lt;/p&gt;&#xA;&lt;p&gt;Researching majors&lt;/p&gt;&#xA;&lt;p&gt;Started researching latest code tools for project&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Volunteer? Not sure. Essays...</title>
-      <link>https://ghost1034.github.io/blog/posts/5/</link>
-      <pubDate>Wed, 04 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://ghost1034.github.io/blog/posts/5/</guid>
-      <description>&lt;p&gt;Reaching out for volunteering&lt;/p&gt;&#xA;&lt;p&gt;Compiling college essay list&lt;/p&gt;&#xA;&lt;p&gt;Call with C&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Getting into it</title>
-      <link>https://ghost1034.github.io/blog/posts/4/</link>
-      <pubDate>Tue, 03 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://ghost1034.github.io/blog/posts/4/</guid>
-      <description>&lt;p&gt;Morning&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Look for volunteer opportunities (start by contacting robotics team)&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Afternoon&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Put college list in Excel, make info complete (add application fees), lay out essay doc&lt;/li&gt;&#xA;&lt;li&gt;List majors interested in, info about them (figure out columns), what jobs come from them&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Evening&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Hopefully got a response from RS - more details about project?&#xA;&lt;ol&gt;&#xA;&lt;li&gt;If so, figure out tech needed for project and start learning it&lt;/li&gt;&#xA;&lt;li&gt;If not, figure out tech needed for own project and start learning it&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Then use figma, ppt, or both to lay it out&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
-    </item>
-    <item>
-      <title>Laying a foundation</title>
-      <link>https://ghost1034.github.io/blog/posts/3/</link>
-      <pubDate>Mon, 02 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://ghost1034.github.io/blog/posts/3/</guid>
-      <description>&lt;p&gt;LinkedIn profile revamped&lt;/p&gt;&#xA;&lt;p&gt;Made prelim college list + spreadsheet&lt;/p&gt;&#xA;&lt;p&gt;Reached out to RS + got reply&lt;/p&gt;&#xA;&lt;p&gt;Made gym plan, a little less clueless there&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>First day of June</title>
-      <link>https://ghost1034.github.io/blog/posts/2/</link>
-      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://ghost1034.github.io/blog/posts/2/</guid>
-      <description>&lt;p&gt;Italian festival&lt;/p&gt;&#xA;&lt;p&gt;Sent rec letter email hoping to get a response?&lt;/p&gt;&#xA;&lt;p&gt;KK pretty good&lt;/p&gt;&#xA;&lt;p&gt;Confused in gym&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>First Post</title>
-      <link>https://ghost1034.github.io/blog/posts/1/</link>
-      <pubDate>Sat, 31 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://ghost1034.github.io/blog/posts/1/</guid>
-      <description>&lt;p&gt;First day: Thu 5/29 (just nighttime)&lt;/p&gt;&#xA;&lt;p&gt;Second day: Fri 5/30 (new K restaurant + walking around)&lt;/p&gt;&#xA;&lt;p&gt;First festival, lots of people&amp;hellip;&lt;/p&gt;&#xA;&lt;p&gt;Still pushing through caffeine withdrawal.&lt;/p&gt;&#xA;&lt;p&gt;Plan for tomorrow (might have to split over multiple days):&lt;/p&gt;&#xA;&lt;p&gt;Morning&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Write and send rec letter email&lt;/li&gt;&#xA;&lt;li&gt;Start making list of colleges, location, tuition, top majors by quality, top majors by personal preference, essay questions&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Afternoon&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Reach out to Ray Sang&lt;/li&gt;&#xA;&lt;li&gt;Contact robotics team + find other teaching or volunteer opportunities&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Evening&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Ian&#39;s Blog</title>
+		<link>https://ghost1034.github.io/blog/</link>
+		<description>Recent content on Ian&#39;s Blog</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Fri, 24 Jul 2026 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://ghost1034.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Meeting Notes</title>
+				<link>https://ghost1034.github.io/blog/posts/47/</link>
+				<pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
+				<guid>https://ghost1034.github.io/blog/posts/47/</guid>
+				<description>&lt;ul&gt;&#xA;&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Fix local dev environment (Firebase)&lt;/li&gt;&#xA;&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Review Ray&amp;rsquo;s productivity suite&lt;/li&gt;&#xA;&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Address E-Signature UAT items after Ray tests&lt;/li&gt;&#xA;&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Test Chrona every day for a few days (both Gemini and local models)&lt;/li&gt;&#xA;&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Connect Slack to Hermes and consider how to distribute the Slackbot to users&lt;/li&gt;&#xA;&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Take Platypus Flow and rebrand it as our open source tool&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+			</item>
+			<item>
+				<title>Order of Operations Again</title>
+				<link>https://ghost1034.github.io/blog/posts/46/</link>
+				<pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
+				<guid>https://ghost1034.github.io/blog/posts/46/</guid>
+				<description>&lt;p&gt;General:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Monday: E-Signature end-to-end test (then tell Ray to test functionality)&lt;/li&gt;&#xA;&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Monday: Chrona UI/UX redesign&lt;/li&gt;&#xA;&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Monday: Claw Series UDA tools&lt;/li&gt;&#xA;&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Tuesday: Chrona demo (edit and post)&lt;/li&gt;&#xA;&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Wednesday: Claw Series demo (edit and post)&lt;/li&gt;&#xA;&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Thursday: Create short clips from demo content for asset library&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+			</item>
+			<item>
+				<title>Order of Operations</title>
+				<link>https://ghost1034.github.io/blog/posts/45/</link>
+				<pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
+				<guid>https://ghost1034.github.io/blog/posts/45/</guid>
+				<description>&lt;p&gt;General:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Form Fill improvements&lt;/li&gt;&#xA;&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Record Form Fill demo&lt;/li&gt;&#xA;&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Inkwise improvements&lt;/li&gt;&#xA;&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Inkwise demo script&lt;/li&gt;&#xA;&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Record Inkwise demos&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Completed:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Form Fill bug fixes&lt;/li&gt;&#xA;&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Record Form Fill demo&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Update:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Monday: Improve Form Fill PDF overlay strategy&lt;/li&gt;&#xA;&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Monday: Improve Inkwise evidence snippet size&lt;/li&gt;&#xA;&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Monday: Find Inkwise demo files (citation demo and RAG demo)&lt;/li&gt;&#xA;&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Monday: Inkwise demo script&lt;/li&gt;&#xA;&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Tuesday: Edit Form Fill demo&lt;/li&gt;&#xA;&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Wednesday: Record Inkwise demos&lt;/li&gt;&#xA;&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Thursday: Edit Inkwise demos&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+			</item>
+			<item>
+				<title>Mental Reset</title>
+				<link>https://ghost1034.github.io/blog/posts/44/</link>
+				<pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
+				<guid>https://ghost1034.github.io/blog/posts/44/</guid>
+				<description>&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Plan to:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Record two remaining Inkwise demos&lt;/li&gt;&#xA;&lt;li&gt;Test Chrona while recording demos (Note: Update model selections)&lt;/li&gt;&#xA;&lt;li&gt;Create LegalClaw with new skills&lt;/li&gt;&#xA;&lt;li&gt;Merge async updates into main branch&lt;/li&gt;&#xA;&lt;li&gt;Redeploy (Note: Create DocuSign docs, add product links, create UAT doc)&lt;/li&gt;&#xA;&lt;li&gt;Upload marketing videos based on CSV&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Testing status (besides DocuSign):&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Universal Document Analysis: Verify after deploying async updates (Note: Automations)&lt;/li&gt;&#xA;&lt;li&gt;Form Fill: Verify when Ray records demo&lt;/li&gt;&#xA;&lt;li&gt;Inkwise: Verify when I record demos&lt;/li&gt;&#xA;&lt;li&gt;Chrona: Verify while recording Inkwise demos&lt;/li&gt;&#xA;&lt;li&gt;Claw Series: Verify when I create LegalClaw&lt;/li&gt;&#xA;&lt;li&gt;AI Analysis Suite: Verify when Ray records demo&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;We&amp;rsquo;re moving from the building stage to production readiness.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Stopping Point Before Trip</title>
+				<link>https://ghost1034.github.io/blog/posts/43/</link>
+				<pubDate>Fri, 19 Jun 2026 00:00:00 +0000</pubDate>
+				<guid>https://ghost1034.github.io/blog/posts/43/</guid>
+				<description>&lt;ul&gt;&#xA;&lt;li&gt;Plan to:&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Meet with Ray to note my two-week travel and my stopping point before trip&lt;/li&gt;&#xA;&lt;li&gt;Make changes to itinerary if there are missing must-do items&lt;/li&gt;&#xA;&lt;li&gt;Pack any items I want to bring on trip&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+			</item>
+			<item>
+				<title>Skills, Plugins, MCP, etc. (and maybe deeper fundamentals?)</title>
+				<link>https://ghost1034.github.io/blog/posts/42/</link>
+				<pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
+				<guid>https://ghost1034.github.io/blog/posts/42/</guid>
+				<description>&lt;ul&gt;&#xA;&lt;li&gt;Plan to:&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Review Claude ecosystem features&lt;/li&gt;&#xA;&lt;li&gt;Read SoftBank and Caris Life Sciences consulting requirements&lt;/li&gt;&#xA;&lt;li&gt;Find an online technical course for the summer to keep myself sharp (deeper AI/ML fundamentals)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+			</item>
+			<item>
+				<title>Demo Day</title>
+				<link>https://ghost1034.github.io/blog/posts/41/</link>
+				<pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+				<guid>https://ghost1034.github.io/blog/posts/41/</guid>
+				<description>&lt;ul&gt;&#xA;&lt;li&gt;Plan to:&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Record demo videos for Inkwise and Form Fill&lt;/li&gt;&#xA;&lt;li&gt;Address any discrepancies along the way&lt;/li&gt;&#xA;&lt;li&gt;Use Descript for a voiceover&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+			</item>
+			<item>
+				<title>Comparing Tools</title>
+				<link>https://ghost1034.github.io/blog/posts/40/</link>
+				<pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
+				<guid>https://ghost1034.github.io/blog/posts/40/</guid>
+				<description>&lt;ul&gt;&#xA;&lt;li&gt;Compared ComfyUI, HeyGen, Google Vids. Decided on cycling between free HeyGen accts&lt;/li&gt;&#xA;&lt;li&gt;Answered YC application questions&lt;/li&gt;&#xA;&lt;li&gt;Added product tour button to every module&lt;/li&gt;&#xA;&lt;li&gt;Listed Inkwise references and generated Form Fill sources/targets for demos&lt;/li&gt;&#xA;&lt;li&gt;Wrote down goals for different time frames&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+			</item>
+			<item>
+				<title>First Monday After Return</title>
+				<link>https://ghost1034.github.io/blog/posts/39/</link>
+				<pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
+				<guid>https://ghost1034.github.io/blog/posts/39/</guid>
+				<description>&lt;ul&gt;&#xA;&lt;li&gt;Reviewed driver&amp;rsquo;s handbook one final time&lt;/li&gt;&#xA;&lt;li&gt;Got permit (a year later than planned but it works out)&lt;/li&gt;&#xA;&lt;li&gt;Revamped CPAAutomation homepage&lt;/li&gt;&#xA;&lt;li&gt;Submitted CoE orientation&lt;/li&gt;&#xA;&lt;li&gt;Sent email to Residential Affairs about CalCentral task&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+			</item>
+			<item>
+				<title>The Day I&#39;m Making My Summer Plans</title>
+				<link>https://ghost1034.github.io/blog/posts/38/</link>
+				<pubDate>Sun, 14 Jun 2026 00:00:00 +0000</pubDate>
+				<guid>https://ghost1034.github.io/blog/posts/38/</guid>
+				<description>&lt;p&gt;Tasks:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Create weekly/monthly/seasonally/yearly/long-term goals&lt;/li&gt;&#xA;&lt;li&gt;Revamp homepage using UI/UX Pro Max skill&lt;/li&gt;&#xA;&lt;li&gt;Learn ComfyUI, set it up, use Hermes to automate&lt;/li&gt;&#xA;&lt;li&gt;Answer YC application questions&lt;/li&gt;&#xA;&lt;li&gt;Add product tour button to every module&lt;/li&gt;&#xA;&lt;li&gt;List Inkwise references and generate Form Fill sources/targets for demos&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;(Note: Complete as many tasks as possible before evening ends, defer the rest to tomorrow)&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Rejuvenating</title>
+				<link>https://ghost1034.github.io/blog/posts/37/</link>
+				<pubDate>Sat, 13 Jun 2026 00:00:00 +0000</pubDate>
+				<guid>https://ghost1034.github.io/blog/posts/37/</guid>
+				<description>&lt;ul&gt;&#xA;&lt;li&gt;In the morning, we discussed the following:&#xA;&lt;ul&gt;&#xA;&lt;li&gt;When responding to others:&#xA;&lt;ul&gt;&#xA;&lt;li&gt;First consider my own thoughts and feelings instead of how to please others&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;When speaking to others:&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Speak based on what I want to say instead of what others want to hear&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;When I get up in the morning:&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Think about what I want for the day instead of what others want for the day&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;At noon, we had lunch at Ping&amp;rsquo;s Bistro, got Molly Tea, and walked around in San Mateo&lt;/li&gt;&#xA;&lt;li&gt;In the afternoon, we watched Backrooms&lt;/li&gt;&#xA;&lt;li&gt;In the evening, we went to the gym&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+			</item>
+			<item>
+				<title>Recalibrating</title>
+				<link>https://ghost1034.github.io/blog/posts/36/</link>
+				<pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
+				<guid>https://ghost1034.github.io/blog/posts/36/</guid>
+				<description>&lt;ul&gt;&#xA;&lt;li&gt;Set up Mac Mini on HD monitor and MacBook Air on 4K monitor&lt;/li&gt;&#xA;&lt;li&gt;Listed two violins for sale on Facebook Marketplace&lt;/li&gt;&#xA;&lt;li&gt;Explored UI/UX Pro Max skill for Claude Code to revamp homepage&lt;/li&gt;&#xA;&lt;li&gt;Explored social media SEO tools and settled on ComfyUI for video + Hermes to post&lt;/li&gt;&#xA;&lt;li&gt;Explored YC application and decided on a past coding session to upload&lt;/li&gt;&#xA;&lt;li&gt;Deployed fixes for bugs Ray reported backlogged during my trip&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+			</item>
+			<item>
+				<title>Returning</title>
+				<link>https://ghost1034.github.io/blog/posts/35/</link>
+				<pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
+				<guid>https://ghost1034.github.io/blog/posts/35/</guid>
+				<description>&lt;ul&gt;&#xA;&lt;li&gt;Returned from Cleveland/Pittsburgh trip (read driver&amp;rsquo;s handbook on the plane)&lt;/li&gt;&#xA;&lt;li&gt;Unpacked everything from my luggage&lt;/li&gt;&#xA;&lt;li&gt;Minor disagreement over not having discussed tuition with dad&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+			</item>
+			<item>
+				<title>Three Days Until Trip</title>
+				<link>https://ghost1034.github.io/blog/posts/34/</link>
+				<pubDate>Sat, 04 Apr 2026 00:00:00 +0000</pubDate>
+				<guid>https://ghost1034.github.io/blog/posts/34/</guid>
+				<description>&lt;p&gt;Saturday April 4&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Arrive&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Sunday April 5&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Apply for SF jobs&lt;/li&gt;&#xA;&lt;li&gt;Submit Cal form&lt;/li&gt;&#xA;&lt;li&gt;Finish remaining school assignments&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Monday April 6&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Math 130 week 8&lt;/li&gt;&#xA;&lt;li&gt;Begin addressing Inkwise UAT&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Research:&#xA;&lt;ul&gt;&#xA;&lt;li&gt;OCR vs Vision&lt;/li&gt;&#xA;&lt;li&gt;Image, Video, Audio&lt;/li&gt;&#xA;&lt;li&gt;Retrieval Optimizations&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Ask Ray for AccountingClaw source code&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Tuesday April 7&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Math 130 week 9&lt;/li&gt;&#xA;&lt;li&gt;Test Inkwise UAT&lt;/li&gt;&#xA;&lt;li&gt;Research the best FREE OpenClaw setup&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Wednesday April 8&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Experiment with OpenClaw&lt;/li&gt;&#xA;&lt;li&gt;Ask Ray to test Inkwise UAT&lt;/li&gt;&#xA;&lt;li&gt;Research the best GCP OpenClaw setup&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Thursday April 9&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Three Days Until Trip</title>
+				<link>https://ghost1034.github.io/blog/posts/33/</link>
+				<pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
+				<guid>https://ghost1034.github.io/blog/posts/33/</guid>
+				<description>&lt;p&gt;Last week&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Applied to six retail jobs (Round 1, Regal, Uniqlo, 2nd Street, Shoe Palace, See&amp;rsquo;s Candies)&lt;/li&gt;&#xA;&lt;li&gt;Built, tested, and deployed Gemini Embedding 2 in Inkwise&lt;/li&gt;&#xA;&lt;li&gt;Stayed off astrology forums until Friday, and good news!&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Monday (recovering from lack of sleep)&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Applied to EinR&lt;/li&gt;&#xA;&lt;li&gt;Began lectures&lt;/li&gt;&#xA;&lt;li&gt;Began Inkwise review&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Tue–Thu (stop obsessing over astrology)&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Tue (feel recovered already)&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Finish lectures for last week and this week&lt;/li&gt;&#xA;&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Take notes from textbook for last week and this week&lt;/li&gt;&#xA;&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Write discussion for this week&lt;/li&gt;&#xA;&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Submit homework for this week&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Wed&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Create list of Inkwise improvements (based on UAT)&lt;/li&gt;&#xA;&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Plan Inkwise improvements&lt;/li&gt;&#xA;&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Execute Inkwise improvements&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Thu&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Apply to food jobs (Quickly, Ike&amp;rsquo;s, Chipotle, Palmetto, Kura, 85deg)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Friday&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Two Weeks Before Trip</title>
+				<link>https://ghost1034.github.io/blog/posts/32/</link>
+				<pubDate>Sun, 15 Mar 2026 00:00:00 +0000</pubDate>
+				<guid>https://ghost1034.github.io/blog/posts/32/</guid>
+				<description>&lt;p&gt;Goals&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Maintain good grades&lt;/li&gt;&#xA;&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Find a job I can start after the trip&lt;/li&gt;&#xA;&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Build, test, and deploy Gemini Embedding 2 in Inkwise&lt;/li&gt;&#xA;&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Complete setup and marketing of Fiverr gigs&lt;/li&gt;&#xA;&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Finalize college decisions spreadsheet&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+			</item>
+			<item>
+				<title>LG (Life&#39;s Good)</title>
+				<link>https://ghost1034.github.io/blog/posts/31/</link>
+				<pubDate>Fri, 06 Mar 2026 00:00:00 +0000</pubDate>
+				<guid>https://ghost1034.github.io/blog/posts/31/</guid>
+				<description>&lt;ul&gt;&#xA;&lt;li&gt;Tonight&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Math night!!!&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Saturday&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Patented features (to match original Inkwise)&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Attach sources directly in the popup, and automatically include the selected text&lt;/li&gt;&#xA;&lt;li&gt;Autocomplete/predict feature, press tab to accept&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Sunday&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Incorporate into CPAAutomation&lt;/li&gt;&#xA;&lt;li&gt;Experiment with OpenClaw?&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Mon-Fri&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Complete remaining math problems&lt;/li&gt;&#xA;&lt;li&gt;CPAAutomation&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Login security&lt;/li&gt;&#xA;&lt;li&gt;Share and invite&lt;/li&gt;&#xA;&lt;li&gt;Website beautification&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+			</item>
+			<item>
+				<title>March!</title>
+				<link>https://ghost1034.github.io/blog/posts/30/</link>
+				<pubDate>Mon, 02 Mar 2026 00:00:00 +0000</pubDate>
+				<guid>https://ghost1034.github.io/blog/posts/30/</guid>
+				<description>&lt;p&gt;Week before last&amp;hellip; what did I accomplish (summary)?&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Completed school assignments for MP4&lt;/li&gt;&#xA;&lt;li&gt;Completed homework for weeks 1–4 of Math 130&lt;/li&gt;&#xA;&lt;li&gt;Created website for Leo and asked for feedback&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Last week&amp;hellip; what did I accomplish (summary)?&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Researched PageIndex vs Traditional RAG&lt;/li&gt;&#xA;&lt;li&gt;Began developing Inkwise, created first prototype&lt;/li&gt;&#xA;&lt;li&gt;Finished financial aid applications&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;This week (simple)&amp;hellip;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;First of all, clear mind and focus on being present&lt;/li&gt;&#xA;&lt;li&gt;Days of week&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Monday&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Math Day (use Celsius)&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Watch lectures for weeks 5–7&lt;/li&gt;&#xA;&lt;li&gt;Complete homework for weeks 5–7&lt;/li&gt;&#xA;&lt;li&gt;Create summary sheet&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;This gets me into the disciplined mindset&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Tuesday&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Testing Day&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Implement bug fixes&lt;/li&gt;&#xA;&lt;li&gt;Implement TipTap&lt;/li&gt;&#xA;&lt;li&gt;Decide on (a) switch to traditional RAG or (b) implement PageIndex myself&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Don&amp;rsquo;t worry about &amp;ldquo;memorizing&amp;rdquo; RAG pipeline details for a sense of security&#xA;&lt;ul&gt;&#xA;&lt;li&gt;That&amp;rsquo;s not the point&lt;/li&gt;&#xA;&lt;li&gt;The point is to experiment and discover the optimal pipeline for myself&lt;/li&gt;&#xA;&lt;li&gt;It&amp;rsquo;s not always obvious&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Wednesday&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Work Day&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Build optimal pipeline&lt;/li&gt;&#xA;&lt;li&gt;Document the pipeline&lt;/li&gt;&#xA;&lt;li&gt;Test the pipeline&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Thursday&#xA;&lt;ul&gt;&#xA;&lt;li&gt;The Incorporation Day&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Incorporate into CPAAutomation&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;P.S. Math&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Write discussion post and submit HW problem&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Friday&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Finalization Day&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Finalize Inkwise MVP in CPAAutomation&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Remember what differentiates my good weeks from my bad weeks&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Goals (check back on Friday night):&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Last week and this week</title>
+				<link>https://ghost1034.github.io/blog/posts/29/</link>
+				<pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate>
+				<guid>https://ghost1034.github.io/blog/posts/29/</guid>
+				<description>&lt;p&gt;Last week in a nutshell:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Completed hackathon project, recorded demo video, cleaned up GitHub commits&lt;/li&gt;&#xA;&lt;li&gt;Completed weeks 2 and 3 of Math 130&lt;/li&gt;&#xA;&lt;li&gt;Met with Leo about Azure setup and discussed email generator features&lt;/li&gt;&#xA;&lt;li&gt;Began researching summer job/internship opportunities&lt;/li&gt;&#xA;&lt;li&gt;Created implementation plans for all CPAAutomation major items&amp;hellip;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&amp;hellip;and implemented cost efficiency improvements (removed Redis for now)&lt;/li&gt;&#xA;&lt;li&gt;&amp;hellip;and will implement performance improvements this week&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Already implemented one (quite interesting): I saw that one user&amp;rsquo;s extraction job failed due to thousands of line items being in one document. CPAAutomation can handle this now.&#xA;&lt;ul&gt;&#xA;&lt;li&gt;It turns out I can learn a lot from real users&amp;rsquo; experiences!&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Began laying out next phase of CPAAutomation development:&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Strengthen authentication (email verification)&lt;/li&gt;&#xA;&lt;li&gt;Team functionality (sharing)&lt;/li&gt;&#xA;&lt;li&gt;Writing feature (plus RAG)&lt;/li&gt;&#xA;&lt;li&gt;Integration with hackathon project (through API key)&lt;/li&gt;&#xA;&lt;li&gt;Utilization of OpenClaw (agentic capabilities)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;This week I want to:&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Begin building hackathon project &#43; prepare for Harvard interview</title>
+				<link>https://ghost1034.github.io/blog/posts/28/</link>
+				<pubDate>Wed, 28 Jan 2026 00:00:00 +0000</pubDate>
+				<guid>https://ghost1034.github.io/blog/posts/28/</guid>
+				<description>&lt;p&gt;Three time concerns:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Less than two weeks until hackathon deadline&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Only two meetings with Ray until deadline&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;This coming Sunday is February 1st&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Should meet with Leo regarding email generator&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;College app material submission&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Counselor needs to send regular transcript to MIT&lt;/li&gt;&#xA;&lt;li&gt;Counselor needs to send mid-year report to all colleges except UCs.&lt;/li&gt;&#xA;&lt;li&gt;Plan to meet with her tomorrow&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Today:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;9-10 AM: Begin phase 1 of building hackathon project (see build phases)&#xA;&lt;ul&gt;&#xA;&lt;li&gt;General plan: 1 phase per day&lt;/li&gt;&#xA;&lt;li&gt;This leaves a few days before the deadline to test end-to-end&lt;/li&gt;&#xA;&lt;li&gt;Leave Leo&amp;rsquo;s project to Saturday (lower priority)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;10:16 AM: Go to advisory at school&lt;/li&gt;&#xA;&lt;li&gt;12:12-12:59 AM: Lunch + prepare answers for Harvard interview&lt;/li&gt;&#xA;&lt;li&gt;2:35 PM: End of 6th period, go home&lt;/li&gt;&#xA;&lt;li&gt;3:30-4:30 PM (estimated): Doctor appointment&lt;/li&gt;&#xA;&lt;li&gt;5-6 PM (estimated): Dinner&lt;/li&gt;&#xA;&lt;li&gt;8:30–9:30 PM (estimated): Harvard interview&lt;/li&gt;&#xA;&lt;li&gt;9:30–10:30 PM: Either:&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Continue building hackathon project according to build plan, or&lt;/li&gt;&#xA;&lt;li&gt;Concretely plan how many phases to complete per day over the next 12 days&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+			</item>
+			<item>
+				<title>Music video, created build plans, bus to CCSF and back</title>
+				<link>https://ghost1034.github.io/blog/posts/27/</link>
+				<pubDate>Tue, 27 Jan 2026 00:00:00 +0000</pubDate>
+				<guid>https://ghost1034.github.io/blog/posts/27/</guid>
+				<description>&lt;ul&gt;&#xA;&lt;li&gt;Created music video for a &amp;ldquo;project&amp;rdquo;. Honestly it was fun.&lt;/li&gt;&#xA;&lt;li&gt;Developed full implementation plans for (1) hackathon and (2) email generator&lt;/li&gt;&#xA;&lt;li&gt;Took bus to CCSF to solve account issue.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Was a little tired in the evening.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>LinkedIn post, MATH 130, set up repos</title>
+				<link>https://ghost1034.github.io/blog/posts/26/</link>
+				<pubDate>Mon, 26 Jan 2026 00:00:00 +0000</pubDate>
+				<guid>https://ghost1034.github.io/blog/posts/26/</guid>
+				<description>&lt;ul&gt;&#xA;&lt;li&gt;Ray made LinkedIn post. Began discussing new user acquisition.&lt;/li&gt;&#xA;&lt;li&gt;Started MATH 130. Watched all lecture videos.&lt;/li&gt;&#xA;&lt;li&gt;Set up local repositories for working on (1) hackathon and (2) email generator&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Went to bed a little too late.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>CPAAutomation Important Items</title>
+				<link>https://ghost1034.github.io/blog/posts/25/</link>
+				<pubDate>Sun, 25 Jan 2026 00:00:00 +0000</pubDate>
+				<guid>https://ghost1034.github.io/blog/posts/25/</guid>
+				<description>&lt;ul&gt;&#xA;&lt;li&gt;Created a list of important architectural improvements needed in CPAAutomation.&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Will need to see when and how to implement these!&lt;/li&gt;&#xA;&lt;li&gt;Especially important as we scale to more users.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Made social media posts to promote RJI Collectibles.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+			</item>
+			<item>
+				<title>RJI Collectibles video</title>
+				<link>https://ghost1034.github.io/blog/posts/24/</link>
+				<pubDate>Sat, 24 Jan 2026 00:00:00 +0000</pubDate>
+				<guid>https://ghost1034.github.io/blog/posts/24/</guid>
+				<description>&lt;ul&gt;&#xA;&lt;li&gt;Recorded RJI Collectibles video&lt;/li&gt;&#xA;&lt;li&gt;Walked around in (I forgot the name)&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+			</item>
+			<item>
+				<title>Recentering</title>
+				<link>https://ghost1034.github.io/blog/posts/23/</link>
+				<pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
+				<guid>https://ghost1034.github.io/blog/posts/23/</guid>
+				<description>&lt;ul&gt;&#xA;&lt;li&gt;Resolved all UAT items for CPAAutomation&lt;/li&gt;&#xA;&lt;li&gt;Met with Ray&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+			</item>
+			<item>
+				<title>Recentering</title>
+				<link>https://ghost1034.github.io/blog/posts/22/</link>
+				<pubDate>Mon, 22 Sep 2025 00:00:00 +0000</pubDate>
+				<guid>https://ghost1034.github.io/blog/posts/22/</guid>
+				<description>&lt;ul&gt;&#xA;&lt;li&gt;Monday&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Get caught up with Calc 3 Ch 12 HW&lt;/li&gt;&#xA;&lt;li&gt;Read full summaries of Invisible Man (all parts), Bible (selected parts)&lt;/li&gt;&#xA;&lt;li&gt;Common App revisions, send back to Ray&lt;/li&gt;&#xA;&lt;li&gt;CPAAutomation Small Fixes&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Tuesday&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Get caught up with Calc 3 Ch 13 Text, Lectures, HW&lt;/li&gt;&#xA;&lt;li&gt;Create full note sheets for Invisible Man and Bible&lt;/li&gt;&#xA;&lt;li&gt;PIQ revisions&lt;/li&gt;&#xA;&lt;li&gt;CPAAutomation Fix #1&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Wednesday&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Calc 3 Week 4 Discussion&lt;/li&gt;&#xA;&lt;li&gt;Finish Biotech Project&lt;/li&gt;&#xA;&lt;li&gt;CPAAutomation Fix #2&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Thursday&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Calc 3 Week 4 HW Submission&lt;/li&gt;&#xA;&lt;li&gt;Finish Psych Project + Review Video Notes + Field Trip Form&lt;/li&gt;&#xA;&lt;li&gt;CPAAutomation Fix #3&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Friday&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Any remaining scholarship applications&lt;/li&gt;&#xA;&lt;li&gt;CPAAutomation: Any remaining work&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+			</item>
+			<item>
+				<title>Last week before school</title>
+				<link>https://ghost1034.github.io/blog/posts/21/</link>
+				<pubDate>Mon, 11 Aug 2025 00:00:00 +0000</pubDate>
+				<guid>https://ghost1034.github.io/blog/posts/21/</guid>
+				<description>&lt;p&gt;A simple plan for the last week before school.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Scheduling classes&#xA;&lt;ul&gt;&#xA;&lt;li&gt;MUST happen this week. Continue reaching out.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;College preparation&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Get all prompts in Word document. Write responses to all CA prompts.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;CPAautomation.ai&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Monday&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Early&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Discussion with Ray, plan out week&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Late&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Release preparation part 1: Non-DB changes (see Kanban)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Tuesday&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Early and Late&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Release preparation part 2: DB changes (see Kanban)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Wednesday&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Early&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Release preparation part 3: Google Workspace integration (consider moving this to after deployment as this is not immediately necessary).&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Late&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Deployment&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Rest of the week: Ensure platform is working, get situated with CI/CD&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+			</item>
+			<item>
+				<title>Expanding my scope?</title>
+				<link>https://ghost1034.github.io/blog/posts/20/</link>
+				<pubDate>Mon, 07 Jul 2025 00:00:00 +0000</pubDate>
+				<guid>https://ghost1034.github.io/blog/posts/20/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;Current Review&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;ByteReview (might change the name). Week&amp;rsquo;s plan (refer back to original plan as well):&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Refactoring&lt;/li&gt;&#xA;&lt;li&gt;Multi-PDF, folders, integrations&lt;/li&gt;&#xA;&lt;li&gt;More control over templates&lt;/li&gt;&#xA;&lt;li&gt;Stripe connection&lt;/li&gt;&#xA;&lt;li&gt;Deployment&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;College applications&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Stanford&#xA;&lt;ol&gt;&#xA;&lt;li&gt;CA: Opens Aug 1&lt;/li&gt;&#xA;&lt;li&gt;REA: Nov 1, RD: Jan 5&lt;/li&gt;&#xA;&lt;li&gt;Decision: REA: Mid Dec, RD: Early Apr&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Caltech&#xA;&lt;ol&gt;&#xA;&lt;li&gt;CA: Opens Aug 1&lt;/li&gt;&#xA;&lt;li&gt;REA: Nov 1, RD: Jan 5&lt;/li&gt;&#xA;&lt;li&gt;Decision: REA: Mid Dec, RD: Mid Mar&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;UC&#xA;&lt;ol&gt;&#xA;&lt;li&gt;App: Opens Aug 1&lt;/li&gt;&#xA;&lt;li&gt;Deadline: Dec 1&lt;/li&gt;&#xA;&lt;li&gt;Decision: Mar 1-31&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;USC&#xA;&lt;ol&gt;&#xA;&lt;li&gt;CA: Opens Aug 1&lt;/li&gt;&#xA;&lt;li&gt;EA (Non-B): Nov 1, RD: Jan 10&lt;/li&gt;&#xA;&lt;li&gt;Decision: EA: Mid-Late Jan, RD: Apr 1&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Cal Poly SLO&#xA;&lt;ol&gt;&#xA;&lt;li&gt;App: Opens Oct 1&lt;/li&gt;&#xA;&lt;li&gt;Deadline: Dec 2&lt;/li&gt;&#xA;&lt;li&gt;Decision: Apr 1&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;CB&amp;rsquo;s web scraping for legal AI project&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Do research on current best web scraping tools&lt;/li&gt;&#xA;&lt;li&gt;Reach back out, ask about progress and what is needed&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;J&amp;rsquo;s Shopify add-on price monitoring idea&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Do research on existing tools and how to build something better&lt;/li&gt;&#xA;&lt;li&gt;Ask for websites of interest&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Creating a class for kids&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Try to find past TCS, Insp AI, Andrew Ng materials&lt;/li&gt;&#xA;&lt;li&gt;Look at Kaggle and library docs to get situated with current landscape again&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Project Pull&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Threw it out the window.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Volunteering&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Check Mission Bit again.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Driving&#xA;&lt;ol&gt;&#xA;&lt;li&gt;See if worth starting now or not.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;&lt;strong&gt;Purposes&lt;/strong&gt;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Presented working app. MongoDB? PostgreSQL?</title>
+				<link>https://ghost1034.github.io/blog/posts/19/</link>
+				<pubDate>Sun, 06 Jul 2025 00:00:00 +0000</pubDate>
+				<guid>https://ghost1034.github.io/blog/posts/19/</guid>
+				<description>&lt;p&gt;Upload, extraction, export working.&lt;/p&gt;&#xA;&lt;p&gt;Field names, data types, prompts working.&lt;/p&gt;&#xA;&lt;p&gt;Refactoring to be done to make codebase organized and scalable, then more features.&lt;/p&gt;&#xA;&lt;p&gt;(Thinking about switching to MongoDB or PostgreSQL. Not sure yet.)&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Next.js, FastAPI, Firebase, Gemini...</title>
+				<link>https://ghost1034.github.io/blog/posts/18/</link>
+				<pubDate>Mon, 30 Jun 2025 00:00:00 +0000</pubDate>
+				<guid>https://ghost1034.github.io/blog/posts/18/</guid>
+				<description>&lt;p&gt;June 30 - July 5: Did not blog during this period. Spent time learning Next.js, FastAPI, Firebase, Gemini. Getting situated with project again.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Meeting with Ray, discussed new plan</title>
+				<link>https://ghost1034.github.io/blog/posts/17/</link>
+				<pubDate>Sun, 29 Jun 2025 00:00:00 +0000</pubDate>
+				<guid>https://ghost1034.github.io/blog/posts/17/</guid>
+				<description>&lt;p&gt;Recovering from jetlag. Will be using Gemini API.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Last day before trip</title>
+				<link>https://ghost1034.github.io/blog/posts/16/</link>
+				<pubDate>Sat, 28 Jun 2025 00:00:00 +0000</pubDate>
+				<guid>https://ghost1034.github.io/blog/posts/16/</guid>
+				<description>&lt;p&gt;Back from trip. Mind-blowing. Many pictures.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Last day before trip</title>
+				<link>https://ghost1034.github.io/blog/posts/15/</link>
+				<pubDate>Sat, 14 Jun 2025 00:00:00 +0000</pubDate>
+				<guid>https://ghost1034.github.io/blog/posts/15/</guid>
+				<description>&lt;p&gt;Finalized project plan - no working prototype yet. Packing for trip.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Creating a plan - need something solid before Sunday</title>
+				<link>https://ghost1034.github.io/blog/posts/14/</link>
+				<pubDate>Fri, 13 Jun 2025 00:00:00 +0000</pubDate>
+				<guid>https://ghost1034.github.io/blog/posts/14/</guid>
+				<description>&lt;p&gt;Morning&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Get Firebase, Google Cloud Storage, Document AI connected&lt;/li&gt;&#xA;&lt;li&gt;Do any necessary refactoring&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Afternoon&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Build working code to connect with APIs&lt;/li&gt;&#xA;&lt;li&gt;At minimum: Upload a file, be able to view returned output when processing is finished&lt;/li&gt;&#xA;&lt;li&gt;Alpha version goal (by Sunday): Be able to upload a file, then after processing is finished, click to open results with PDF preview on one side and editable fields on the other side. Approve button and Export to CSV button.&lt;/li&gt;&#xA;&lt;li&gt;Create document with full project plan and screenshots of current build, send Google Docs link to Ray Sang&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Evening&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Building foundation of app... firm foundation or not?</title>
+				<link>https://ghost1034.github.io/blog/posts/13/</link>
+				<pubDate>Thu, 12 Jun 2025 00:00:00 +0000</pubDate>
+				<guid>https://ghost1034.github.io/blog/posts/13/</guid>
+				<description>&lt;p&gt;Scaffolded Extractly, not sure how much to focus on perfecting structure vs. getting something working&lt;/p&gt;&#xA;&lt;p&gt;Read lots of docs, slightly confused about how to specify columns to extract and how to provide prompts&lt;/p&gt;&#xA;&lt;p&gt;Determined to move forward - said I would get something working, will get something working by end of week&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Mapping out ByteReview or whatever it&#39;ll be called</title>
+				<link>https://ghost1034.github.io/blog/posts/12/</link>
+				<pubDate>Wed, 11 Jun 2025 00:00:00 +0000</pubDate>
+				<guid>https://ghost1034.github.io/blog/posts/12/</guid>
+				<description>&lt;p&gt;Followed along a bit with Next.js 15 video&lt;/p&gt;&#xA;&lt;p&gt;Read up a bit about required tech, trying to go for modern stack&lt;/p&gt;&#xA;&lt;p&gt;Drafted ByteReview/Extractly/? rough plan&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>First and last Pull work day</title>
+				<link>https://ghost1034.github.io/blog/posts/11/</link>
+				<pubDate>Tue, 10 Jun 2025 00:00:00 +0000</pubDate>
+				<guid>https://ghost1034.github.io/blog/posts/11/</guid>
+				<description>&lt;p&gt;Sorted mail, met strange people, I&amp;rsquo;m done&lt;/p&gt;&#xA;&lt;p&gt;Talked with C + really getting hang of gym&lt;/p&gt;&#xA;&lt;p&gt;Nighttime, resigned, connected back with Ray!&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>First day of Pull</title>
+				<link>https://ghost1034.github.io/blog/posts/10/</link>
+				<pubDate>Mon, 09 Jun 2025 00:00:00 +0000</pubDate>
+				<guid>https://ghost1034.github.io/blog/posts/10/</guid>
+				<description>&lt;p&gt;Met new people&lt;/p&gt;&#xA;&lt;p&gt;Talked a lot&lt;/p&gt;&#xA;&lt;p&gt;Weird Steven Woo&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Going out</title>
+				<link>https://ghost1034.github.io/blog/posts/9/</link>
+				<pubDate>Sun, 08 Jun 2025 00:00:00 +0000</pubDate>
+				<guid>https://ghost1034.github.io/blog/posts/9/</guid>
+				<description>&lt;p&gt;Went to flea market&lt;/p&gt;&#xA;&lt;p&gt;Went to JTown&lt;/p&gt;&#xA;&lt;p&gt;13,000 steps&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>F &amp; H</title>
+				<link>https://ghost1034.github.io/blog/posts/8/</link>
+				<pubDate>Sat, 07 Jun 2025 00:00:00 +0000</pubDate>
+				<guid>https://ghost1034.github.io/blog/posts/8/</guid>
+				<description>&lt;p&gt;F &amp;amp; H&amp;rsquo;s house&lt;/p&gt;&#xA;&lt;p&gt;Social interaction with them (CB - Python web scraping task!)&lt;/p&gt;&#xA;&lt;p&gt;Singing in front of people&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Big project reveal day - it begins!</title>
+				<link>https://ghost1034.github.io/blog/posts/7/</link>
+				<pubDate>Fri, 06 Jun 2025 00:00:00 +0000</pubDate>
+				<guid>https://ghost1034.github.io/blog/posts/7/</guid>
+				<description>&lt;p&gt;Call with RS, project revealed&lt;/p&gt;&#xA;&lt;p&gt;Reading Document AI docs&lt;/p&gt;&#xA;&lt;p&gt;Finding similar existing projects to determine workflow&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Volunteer? Hmm. Majors...</title>
+				<link>https://ghost1034.github.io/blog/posts/6/</link>
+				<pubDate>Thu, 05 Jun 2025 00:00:00 +0000</pubDate>
+				<guid>https://ghost1034.github.io/blog/posts/6/</guid>
+				<description>&lt;p&gt;More volunteering search&lt;/p&gt;&#xA;&lt;p&gt;Researching majors&lt;/p&gt;&#xA;&lt;p&gt;Started researching latest code tools for project&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Volunteer? Not sure. Essays...</title>
+				<link>https://ghost1034.github.io/blog/posts/5/</link>
+				<pubDate>Wed, 04 Jun 2025 00:00:00 +0000</pubDate>
+				<guid>https://ghost1034.github.io/blog/posts/5/</guid>
+				<description>&lt;p&gt;Reaching out for volunteering&lt;/p&gt;&#xA;&lt;p&gt;Compiling college essay list&lt;/p&gt;&#xA;&lt;p&gt;Call with C&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Getting into it</title>
+				<link>https://ghost1034.github.io/blog/posts/4/</link>
+				<pubDate>Tue, 03 Jun 2025 00:00:00 +0000</pubDate>
+				<guid>https://ghost1034.github.io/blog/posts/4/</guid>
+				<description>&lt;p&gt;Morning&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Look for volunteer opportunities (start by contacting robotics team)&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Afternoon&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Put college list in Excel, make info complete (add application fees), lay out essay doc&lt;/li&gt;&#xA;&lt;li&gt;List majors interested in, info about them (figure out columns), what jobs come from them&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Evening&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Hopefully got a response from RS - more details about project?&#xA;&lt;ol&gt;&#xA;&lt;li&gt;If so, figure out tech needed for project and start learning it&lt;/li&gt;&#xA;&lt;li&gt;If not, figure out tech needed for own project and start learning it&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Then use figma, ppt, or both to lay it out&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
+			</item>
+			<item>
+				<title>Laying a foundation</title>
+				<link>https://ghost1034.github.io/blog/posts/3/</link>
+				<pubDate>Mon, 02 Jun 2025 00:00:00 +0000</pubDate>
+				<guid>https://ghost1034.github.io/blog/posts/3/</guid>
+				<description>&lt;p&gt;LinkedIn profile revamped&lt;/p&gt;&#xA;&lt;p&gt;Made prelim college list + spreadsheet&lt;/p&gt;&#xA;&lt;p&gt;Reached out to RS + got reply&lt;/p&gt;&#xA;&lt;p&gt;Made gym plan, a little less clueless there&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>First day of June</title>
+				<link>https://ghost1034.github.io/blog/posts/2/</link>
+				<pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+				<guid>https://ghost1034.github.io/blog/posts/2/</guid>
+				<description>&lt;p&gt;Italian festival&lt;/p&gt;&#xA;&lt;p&gt;Sent rec letter email hoping to get a response?&lt;/p&gt;&#xA;&lt;p&gt;KK pretty good&lt;/p&gt;&#xA;&lt;p&gt;Confused in gym&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>First Post</title>
+				<link>https://ghost1034.github.io/blog/posts/1/</link>
+				<pubDate>Sat, 31 May 2025 00:00:00 +0000</pubDate>
+				<guid>https://ghost1034.github.io/blog/posts/1/</guid>
+				<description>&lt;p&gt;First day: Thu 5/29 (just nighttime)&lt;/p&gt;&#xA;&lt;p&gt;Second day: Fri 5/30 (new K restaurant + walking around)&lt;/p&gt;&#xA;&lt;p&gt;First festival, lots of people&amp;hellip;&lt;/p&gt;&#xA;&lt;p&gt;Still pushing through caffeine withdrawal.&lt;/p&gt;&#xA;&lt;p&gt;Plan for tomorrow (might have to split over multiple days):&lt;/p&gt;&#xA;&lt;p&gt;Morning&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Write and send rec letter email&lt;/li&gt;&#xA;&lt;li&gt;Start making list of colleges, location, tuition, top majors by quality, top majors by personal preference, essay questions&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Afternoon&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Reach out to Ray Sang&lt;/li&gt;&#xA;&lt;li&gt;Contact robotics team + find other teaching or volunteer opportunities&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Evening&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>
