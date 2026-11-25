@@ -10,9 +10,37 @@
 		
 		
 		
-			<lastBuildDate>Fri, 24 Jul 2026 00:00:00 +0000</lastBuildDate>
+			<lastBuildDate>Tue, 24 Nov 2026 00:00:00 +0000</lastBuildDate>
 		
 			<atom:link href="https://ghost1034.github.io/blog/posts/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Pre Trip Review</title>
+				<link>https://ghost1034.github.io/blog/posts/51/</link>
+				<pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
+				<guid>https://ghost1034.github.io/blog/posts/51/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;SoftBank&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Deploy field definition editor and project repurposing support&lt;/li&gt;&#xA;&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Ask Lei to update skill (say it is for project repurposing support)&lt;/li&gt;&#xA;&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Until future solution: set up field definition sync task&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Fireworks&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Once Terraform is applied: Make Metis load balancer cutover&lt;/li&gt;&#xA;&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Once Anrok team enables transaction list API: test it end to end&lt;/li&gt;&#xA;&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; &lt;strong&gt;Later&lt;/strong&gt;: Once agent works: improve efficiency&lt;/li&gt;&#xA;&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; &lt;strong&gt;Later&lt;/strong&gt;: Once the above are done: ask security team to create a Slack app&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Caris&lt;/strong&gt;&#xA;N/A!&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Jobs</title>
+				<link>https://ghost1034.github.io/blog/posts/49/</link>
+				<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+				<guid>https://ghost1034.github.io/blog/posts/49/</guid>
+				<description>&lt;p&gt;Priority list:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Summer 27:&lt;/strong&gt; large tech company (e.g., Amazon) (website or indeed)&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Summer 27:&lt;/strong&gt; startup (e.g., YC startup) (website or indeed)&lt;/li&gt;&#xA;&lt;li&gt;Now: CPAAutomation SaaS/consulting&lt;/li&gt;&#xA;&lt;li&gt;Now: tech retail (e.g., Apple Store) (website or indeed)&lt;/li&gt;&#xA;&lt;li&gt;Now: campus administrative (e.g., CalCentral) (handshake)&lt;/li&gt;&#xA;&lt;li&gt;Now: service (e.g., cafe) (indeed)&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+			</item>
+			<item>
+				<title>Post Redesign Meeting</title>
+				<link>https://ghost1034.github.io/blog/posts/50/</link>
+				<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+				<guid>https://ghost1034.github.io/blog/posts/50/</guid>
+				<description>&lt;p&gt;Done:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Public facing redesign&lt;/li&gt;&#xA;&lt;li&gt;User facing redesign&lt;/li&gt;&#xA;&lt;li&gt;Fix TaxAtlas bugs&lt;/li&gt;&#xA;&lt;li&gt;Fix product link bugs&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;To do:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Fix FirmCRM bugs&lt;/li&gt;&#xA;&lt;li&gt;Make FirmCRM for pro only&lt;/li&gt;&#xA;&lt;li&gt;Onboard SoftBank laptop&lt;/li&gt;&#xA;&lt;li&gt;Add myself to bank account&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Possible new idea: integration with Chase bank for revenue tracking&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Relevant Sources</title>
+				<link>https://ghost1034.github.io/blog/posts/48/</link>
+				<pubDate>Sat, 25 Jul 2026 00:00:00 +0000</pubDate>
+				<guid>https://ghost1034.github.io/blog/posts/48/</guid>
+				<description>&lt;ul&gt;&#xA;&lt;li&gt;General/Politics: AP News or Reuters (regular app: Google News) (special app: Ground News)&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Audio: NPR&amp;rsquo;s Up First or NYT&amp;rsquo;s The Daily&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Tech: Hacker News&lt;/li&gt;&#xA;&lt;li&gt;Science: Ars Technica&amp;rsquo;s Science section&lt;/li&gt;&#xA;&lt;li&gt;Sports: ESPN&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+			</item>
 			<item>
 				<title>Meeting Notes</title>
 				<link>https://ghost1034.github.io/blog/posts/47/</link>
