@@ -84,8 +84,11 @@ python3 images.py
 # ──────────────────────────────────────────────────────────
 # 6) BUILD HUGO SITE
 # ──────────────────────────────────────────────────────────
+echo "Ensuring theme submodule is present..."
+git submodule update --init --recursive
+
 echo "Building Hugo site..."
-hugo
+hugo --cleanDestinationDir
 # By default, Hugo writes to ./public/
 
 # ──────────────────────────────────────────────────────────
